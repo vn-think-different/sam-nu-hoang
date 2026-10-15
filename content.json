@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "slug": "sam-tuoi",
+      "short": "Sâm tươi",
+      "name": "Sâm Nữ Hoàng tươi",
+      "label": "SÂM NGUYÊN LIỆU",
+      "desc": "Danh mục sâm tươi, dành cho những ai muốn tìm hiểu nguyên liệu ở dạng tươi.",
+      "note": "Ảnh thực tế, độ tuổi thu hoạch và quy cách đóng gói sẽ được bổ sung khi có thông tin sản phẩm.",
+      "number": "01",
+      "tag": "Đang cập nhật"
+    },
+    {
+      "slug": "sam-kho",
+      "short": "Sâm khô",
+      "name": "Sâm Nữ Hoàng khô",
+      "label": "SÂM CHẾ BIẾN",
+      "desc": "Danh mục sâm khô, mở thêm lựa chọn từ nguyên liệu sâm.",
+      "note": "Dạng nguyên củ hay thái lát, phương pháp chế biến và khối lượng sẽ được xác nhận trong hồ sơ sản phẩm.",
+      "number": "02",
+      "tag": "Đang cập nhật"
+    },
+    {
+      "slug": "ruou-sam",
+      "short": "Rượu sâm",
+      "name": "Ngự Vị Nữ Hoàng Tưu",
+      "label": "DÒNG RƯỢU SÂM",
+      "desc": "Khám phá dòng rượu sâm Ngự Vị Nữ Hoàng Tưu qua bộ ảnh bình và chai thực tế.",
+      "note": "Hình ảnh do chủ dự án cung cấp. Các kiểu bình trong ảnh chưa được xác nhận là các mã hàng đang mở bán.",
+      "number": "03",
+      "tag": "Ảnh thực tế"
+    },
+    {
+      "slug": "cao-sam",
+      "short": "Cao sâm",
+      "name": "Cao Sâm Nữ Hoàng",
+      "label": "SÂM CHẾ BIẾN",
+      "desc": "Danh mục cao sâm, dành cho nhu cầu tìm hiểu sản phẩm sâm ở dạng cao.",
+      "note": "Thành phần, tỷ lệ nguyên liệu, khối lượng và hướng dẫn sử dụng sẽ được bổ sung theo nhãn sản phẩm.",
+      "number": "04",
+      "tag": "Đang cập nhật"
+    }
+  ],
+  "sources": [
+    {
+      "title": "MS Thiên Ngọc: Từ nghiên cứu Cây dược liệu quý MS Nữ Hoàng",
+      "publisher": "HTV - Đài Phát thanh và Truyền hình TP.HCM",
+      "url": "https://htv.vn/ms-thien-ngoc-tu-nghien-cuu-cay-duoc-lieu-quy-ms-nu-hoang-222260911102637333.htm",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Cây MS Nữ Hoàng: Tiềm năng lớn, càng cần quản lý chặt nguồn giống",
+      "publisher": "VTV",
+      "url": "https://vtv.vn/cay-ms-nu-hoang-tiem-nang-lon-cang-can-quan-ly-chat-nguon-giong-100260615150659369.htm",
+      "date": "2026-06-15"
+    },
+    {
+      "title": "Cây MS Nữ Hoàng: Tiềm năng lớn, càng cần quản lý chặt nguồn giống",
+      "publisher": "Báo Nông nghiệp và Môi trường",
+      "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-tiem-nang-lon-cang-can-quan-ly-chat-nguon-giong-d815855.html",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "Sâm Nữ Hoàng, tiềm năng mới của ngành dược",
+      "publisher": "Báo Nông nghiệp và Môi trường",
+      "url": "https://nongnghiepmoitruong.vn/sam-nu-hoang-tiem-nang-moi-cua-nganh-duoc-d760090.html",
+      "date": "2025-06-30"
+    },
+    {
+      "title": "Sâm Nữ Hoàng – Động lực phát triển mô hình kinh tế mới tại xã Phúc Thọ",
+      "publisher": "Cổng thông tin xã Phúc Thọ (Hà Nội)",
+      "url": "https://phuctho.hanoi.gov.vn/kinh-te-tai-chinh/sam-nu-hoang-dong-luc-phat-trien-mo-hinh-kinh-te-moi-tai-xa-phuc-tho-2688260226155628183.htm",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Trải nghiệm thực tế tại vườn ươm MS Nữ Hoàng ở Phú Thọ",
+      "publisher": "Tạp chí Sức khỏe Việt",
+      "url": "https://suckhoeviet.org.vn/trai-nghiem-thuc-te-tai-vuon-uom-ms-nu-hoang-o-phu-tho-28180.html",
+      "date": "2026-08-28"
+    }
+  ],
+  "policies": {
+    "chinh-sach-mua-hang": {
+      "title": "Hướng dẫn mua hàng",
+      "sections": [
+        [
+          "Tìm hiểu sản phẩm",
+          "Chọn một trong bốn danh mục sản phẩm và xem trang chi tiết. Thông tin còn thiếu được ghi rõ là đang cập nhật."
+        ],
+        [
+          "Lưu sản phẩm quan tâm",
+          "Bạn có thể lưu sản phẩm vào danh sách quan tâm trên thiết bị, thêm ghi chú và tải danh sách tại trang Liên hệ. Thao tác này chưa tạo đơn hàng."
+        ],
+        [
+          "Đặt hàng và thanh toán",
+          "Website chưa tiếp nhận đơn hàng hoặc thanh toán trực tuyến. Quy trình đặt hàng sẽ được công bố sau khi doanh nghiệp cung cấp đầy đủ giá bán, thông tin liên hệ và điều kiện giao dịch."
+        ]
+      ]
+    },
+    "giao-hang-doi-tra": {
+      "title": "Giao hàng & đổi trả",
+      "sections": [
+        [
+          "Phạm vi giao hàng",
+          "Khu vực phục vụ và đơn vị vận chuyển đang được cập nhật."
+        ],
+        [
+          "Chi phí và thời gian",
+          "Phí vận chuyển, thời gian dự kiến và điều kiện giao nhận sẽ được công bố trước khi tiếp nhận đơn hàng."
+        ],
+        [
+          "Điều kiện đổi trả",
+          "Thời hạn đổi trả, điều kiện tiếp nhận và quy trình xử lý sẽ được doanh nghiệp xác nhận. Website hiện chưa áp dụng một chính sách đổi trả chính thức."
+        ]
+      ]
+    },
+    "bao-mat": {
+      "title": "Quyền riêng tư",
+      "sections": [
+        [
+          "Dữ liệu trên thiết bị",
+          "Danh sách sản phẩm quan tâm và ghi chú được lưu trong bộ nhớ cục bộ của trình duyệt. Website không gửi các nội dung này tới doanh nghiệp. Bạn có thể xóa từng mục hoặc xóa dữ liệu website trong cài đặt trình duyệt."
+        ],
+        [
+          "Tệp danh sách quan tâm",
+          "Tệp văn bản được tạo trực tiếp trên thiết bị khi bạn chọn tải xuống. Bạn quyết định việc lưu trữ và chia sẻ tệp này."
+        ],
+        [
+          "Liên kết và hạ tầng",
+          "Các liên kết bài viết mở website của đơn vị xuất bản. Những website đó có chính sách riêng. Hạ tầng lưu trữ website có thể xử lý dữ liệu kỹ thuật cần thiết để cung cấp trang."
+        ],
+        [
+          "Cập nhật chính sách",
+          "Thông tin đơn vị chịu trách nhiệm và kênh tiếp nhận yêu cầu về dữ liệu sẽ được bổ sung cùng hồ sơ doanh nghiệp."
+        ]
+      ]
+    },
+    "dieu-khoan": {
+      "title": "Điều khoản sử dụng",
+      "sections": [
+        [
+          "Phạm vi website",
+          "Website hiện cung cấp thông tin giới thiệu và danh mục sản phẩm. Những mục đang cập nhật chưa phải thông tin chào bán hoàn chỉnh."
+        ],
+        [
+          "Nguồn tham khảo",
+          "Bài viết trong mục Kiến thức được dẫn tới nguồn xuất bản gốc. Các bài viết này không phải bằng chứng xác nhận chất lượng hoặc công dụng cho từng sản phẩm trên website."
+        ],
+        [
+          "Thông tin sản phẩm",
+          "Không sử dụng nội dung website để tự chẩn đoán hoặc điều trị. Những thông tin về thành phần và cách sử dụng cần được đối chiếu với nhãn và tài liệu của sản phẩm."
+        ],
+        [
+          "Sản phẩm có cồn",
+          "Dòng rượu sâm được giới thiệu cho người từ 18 tuổi. Không sử dụng rượu bia khi lái xe."
+        ]
+      ]
+    }
+  }
+}
