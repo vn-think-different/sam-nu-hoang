@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
+Disallow: /
 Sitemap: https://sam-nu-hoang.dewy-crumb-9497.chatgpt.site/sitemap.xml

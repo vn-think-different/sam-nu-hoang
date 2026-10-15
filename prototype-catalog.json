@@ -1,0 +1,130 @@
+{
+  "trong-go-soi": {
+    "asset": "oak",
+    "abv": "30% vol",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "5 lít",
+        "price": 3900000
+      },
+      {
+        "label": "10 lít",
+        "price": 6900000
+      }
+    ]
+  },
+  "binh-dang-trong": {
+    "asset": "round",
+    "abv": "30% vol",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "3 lít",
+        "price": 1890000
+      },
+      {
+        "label": "5 lít",
+        "price": 2890000
+      }
+    ]
+  },
+  "binh-da-giac": {
+    "asset": "faceted",
+    "abv": "30% vol",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "3 lít",
+        "price": 1990000
+      },
+      {
+        "label": "5 lít",
+        "price": 2990000
+      }
+    ]
+  },
+  "binh-ho-lo": {
+    "asset": "gourd",
+    "abv": "30% vol",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "1 lít",
+        "price": 890000
+      },
+      {
+        "label": "2 lít",
+        "price": 1490000
+      },
+      {
+        "label": "3 lít",
+        "price": 2090000
+      }
+    ]
+  },
+  "chai-thuy-tinh": {
+    "asset": "bottle",
+    "abv": "30% vol",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "500 ml",
+        "price": 590000
+      },
+      {
+        "label": "750 ml",
+        "price": 790000
+      }
+    ]
+  },
+  "sam-tuoi": {
+    "asset": "fresh",
+    "abv": "",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "500 g",
+        "price": 325000
+      },
+      {
+        "label": "1 kg",
+        "price": 650000
+      }
+    ]
+  },
+  "sam-kho": {
+    "asset": "slices",
+    "abv": "",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "100 g",
+        "price": 390000
+      },
+      {
+        "label": "250 g",
+        "price": 950000
+      },
+      {
+        "label": "500 g",
+        "price": 1850000
+      }
+    ]
+  },
+  "cao-sam": {
+    "asset": "cao",
+    "abv": "",
+    "assumed": true,
+    "variants": [
+      {
+        "label": "100 g",
+        "price": 790000
+      },
+      {
+        "label": "200 g",
+        "price": 1490000
+      }
+    ]
+  }
+}

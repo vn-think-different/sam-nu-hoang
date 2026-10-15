@@ -30,3 +30,24 @@ Tổng vùng trồng 3 ha: 2 ha tại Sóc Sơn, 1 ha tại Ứng Hòa, Hà Nộ
 Năm nhóm bao bì rượu: trống gỗ sồi, bình thủy tinh dáng trống, bình thủy tinh đa giác, bình hồ lô, chai thủy tinh. Nhiều góc ảnh không tương đương nhiều mã hàng. Dung tích, nồng độ cồn, giá, cấu hình sẵn có và giao nhận được xác nhận qua hotline.
 
 Ảnh và hồ sơ chi tiết của sâm tươi, sâm khô, cao sâm sẽ bổ sung sau. Email, mã số đăng ký hộ kinh doanh và hồ sơ chất lượng chưa được cung cấp. Bài viết báo chí chỉ dẫn nguồn gốc. Xem `ASSET_SOURCES.md`.
+
+## Bản duyệt mới: nhận diện bordeaux / champagne / ivory
+
+30 trang, 8 bài biên soạn, danh mục 52 nguồn từ CSV, 5 nhóm bao bì rượu, 48 ảnh gốc và các ảnh sản phẩm đã xử lý. Logo tải tại `/thuong-hieu/`.
+
+- `articles.json`: bài viết, mục lục, nguồn và liên kết liên quan.
+- `prototype-catalog.json`: quy cách, giá và ABV giả định để duyệt.
+- `design.py`: bố cục mới và trang biên tập.
+- `dist/assets/luxury.css`, `luxury.js`: responsive, chuyển động giảm khi người dùng chọn reduced-motion, chọn quy cách/số lượng, dự toán lưu cục bộ, tải TXT.
+- `source-index.json`: chỉ mục từ CSV, không chứa các tệp cá nhân ngoài hồ sơ.
+- `PRICE_SOURCES.md`, `editorial-image-sources.json`: cơ sở giá và nguồn ảnh.
+
+Build: `python build.py` (Pillow cần cài). Tệp `prepare_editorial.py` là bản khởi tạo dữ liệu; không chạy lại sau khi sửa JSON thủ công.
+
+Giới hạn: đây là bản duyệt riêng tư/noindex, chưa xác nhận giá và thông số; cao sâm là hình bao bì đề xuất. Không có xử lý thanh toán hay gửi đơn. Logo PNG cần vector hóa sau khi duyệt để in ấn. Các ảnh xử lý AI không dùng để đọc thành phần nhãn.
+
+## Vercel
+
+`vercel.json` phục vụ trực tiếp website đã tạo trong `dist/`. Không cần cài Python/Pillow trên Vercel. Build Command chạy `node scripts/verify-static.mjs` để phát hiện đầu ra thiếu, sau đó Vercel xuất bản thư mục `dist`.
+
+Trong Vercel: Root Directory để trống (gốc repo), Framework Preset = Other; các thiết lập build/output lấy từ `vercel.json`. Production Branch = main. Nếu đang xem deployment cũ 1c688a0, tạo deployment từ commit mới thay vì redeploy lại commit cũ.
