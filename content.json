@@ -25,8 +25,8 @@
       "short": "Rượu sâm",
       "name": "Ngự Vị Nữ Hoàng Tưu",
       "label": "DÒNG RƯỢU SÂM",
-      "desc": "Khám phá dòng rượu sâm Ngự Vị Nữ Hoàng Tưu qua bộ ảnh bình và chai thực tế.",
-      "note": "Hình ảnh do chủ dự án cung cấp. Các kiểu bình trong ảnh chưa được xác nhận là các mã hàng đang mở bán.",
+      "desc": "Ngự Vị Nữ Hoàng Tưu với năm kiểu bình, chai và trống gỗ sồi. Khám phá từng quy cách qua hình ảnh thực tế.",
+      "note": "Dung tích, nồng độ cồn, giá bán và quy cách sẵn có được tư vấn theo từng mẫu qua hotline 0972 686 765.",
       "number": "03",
       "tag": "Ảnh thực tế"
     },
@@ -84,16 +84,16 @@
       "title": "Hướng dẫn mua hàng",
       "sections": [
         [
-          "Tìm hiểu sản phẩm",
-          "Chọn một trong bốn danh mục sản phẩm và xem trang chi tiết. Thông tin còn thiếu được ghi rõ là đang cập nhật."
+          "Chọn dòng sản phẩm",
+          "Khám phá sâm tươi, sâm khô, cao sâm hoặc năm kiểu bình và chai Ngự Vị Nữ Hoàng Tưu. Mỗi trang rượu có nhiều góc ảnh thực tế để đối chiếu."
         ],
         [
-          "Lưu sản phẩm quan tâm",
-          "Bạn có thể lưu sản phẩm vào danh sách quan tâm trên thiết bị, thêm ghi chú và tải danh sách tại trang Liên hệ. Thao tác này chưa tạo đơn hàng."
+          "Tư vấn quy cách",
+          "Gọi hotline 0972 686 765 để xác nhận dung tích, khối lượng, nồng độ cồn, giá và tình trạng sẵn có của từng mẫu."
         ],
         [
-          "Đặt hàng và thanh toán",
-          "Website chưa tiếp nhận đơn hàng hoặc thanh toán trực tuyến. Quy trình đặt hàng sẽ được công bố sau khi doanh nghiệp cung cấp đầy đủ giá bán, thông tin liên hệ và điều kiện giao dịch."
+          "Xác nhận giao dịch",
+          "Danh sách quan tâm chỉ giúp bạn ghi lại nhu cầu. Website chưa nhận thanh toán trực tuyến. Giá, chi phí giao hàng và điều kiện giao dịch cần được xác nhận trước khi đặt hàng."
         ]
       ]
     },
@@ -130,8 +130,8 @@
           "Các liên kết bài viết mở website của đơn vị xuất bản. Những website đó có chính sách riêng. Hạ tầng lưu trữ website có thể xử lý dữ liệu kỹ thuật cần thiết để cung cấp trang."
         ],
         [
-          "Cập nhật chính sách",
-          "Thông tin đơn vị chịu trách nhiệm và kênh tiếp nhận yêu cầu về dữ liệu sẽ được bổ sung cùng hồ sơ doanh nghiệp."
+          "Liên hệ về dữ liệu",
+          "Đơn vị giới thiệu sản phẩm: Hộ kinh doanh cá thể Đỗ Thị Tuyết. Địa chỉ: Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng, Ứng Hòa, Hà Nội. Hotline: 0972 686 765."
         ]
       ]
     },
@@ -156,5 +156,143 @@
         ]
       ]
     }
-  }
+  },
+  "business": {
+    "name": "Hộ kinh doanh cá thể Đỗ Thị Tuyết",
+    "owner": "Đỗ Thị Tuyết",
+    "phone": "0972686765",
+    "phoneDisplay": "0972 686 765",
+    "address": "Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng, Ứng Hòa, Hà Nội",
+    "areaTotal": 3,
+    "areas": [
+      {
+        "name": "Sóc Sơn, Hà Nội",
+        "hectares": 2
+      },
+      {
+        "name": "Ứng Hòa, Hà Nội",
+        "hectares": 1
+      }
+    ]
+  },
+  "wineFamilies": [
+    {
+      "slug": "trong-go-soi",
+      "name": "Trống rượu gỗ sồi",
+      "label": "GỖ SỒI · VÒI RÓT · CHÂN ĐẾ",
+      "desc": "Sắc gỗ ấm, đai kim loại và vòi rót tạo nên điểm nhấn riêng cho dòng Ngự Vị Nữ Hoàng Tưu.",
+      "features": [
+        "Thân trống bằng gỗ sồi",
+        "Đai kim loại bao quanh thân",
+        "Vòi rót và chân đế bằng gỗ"
+      ],
+      "images": [
+        27,
+        40,
+        17,
+        41,
+        42,
+        20,
+        21,
+        38
+      ],
+      "cover": 27
+    },
+    {
+      "slug": "binh-dang-trong",
+      "name": "Bình thủy tinh dáng trống",
+      "label": "THỦY TINH · DÁNG TRÒN · VÒI RÓT",
+      "desc": "Thân bình tròn đặt nằm ngang, nắp khóa gài và vòi rót ở mặt trước.",
+      "features": [
+        "Thân thủy tinh dáng trống tròn",
+        "Nắp có khóa gài kim loại",
+        "Vòi rót ở mặt trước"
+      ],
+      "images": [
+        12,
+        22,
+        30,
+        7,
+        14
+      ],
+      "cover": 12
+    },
+    {
+      "slug": "binh-da-giac",
+      "name": "Bình thủy tinh đa giác",
+      "label": "THỦY TINH · MẶT NỔI · KHÓA GÀI",
+      "desc": "Các mặt thủy tinh nổi tạo hình khối, kết hợp miệng bình rộng, nắp khóa gài và vòi rót.",
+      "features": [
+        "Thân bình có các mặt nổi",
+        "Miệng rộng, nắp khóa gài",
+        "Vòi rót và nhãn nhận diện màu đỏ"
+      ],
+      "images": [
+        33,
+        5,
+        6,
+        15,
+        24,
+        9,
+        11,
+        23
+      ],
+      "cover": 33
+    },
+    {
+      "slug": "binh-ho-lo",
+      "name": "Bình hồ lô",
+      "label": "THỦY TINH · HỒ LÔ · NÚT TRANG TRÍ",
+      "desc": "Hai bầu tròn nối liền cùng nút thủy tinh tạo nên dáng hồ lô đặc trưng.",
+      "features": [
+        "Thân bình thủy tinh hai bầu",
+        "Nút thủy tinh trang trí",
+        "Nhãn Ngự Vị Nữ Hoàng Tưu"
+      ],
+      "images": [
+        45,
+        19,
+        0,
+        1,
+        4,
+        8,
+        10,
+        26,
+        29,
+        34,
+        35,
+        44,
+        46,
+        47,
+        48,
+        49
+      ],
+      "cover": 45
+    },
+    {
+      "slug": "chai-thuy-tinh",
+      "name": "Chai thủy tinh",
+      "label": "THỦY TINH · THÂN GÂN · NẮP VẶN",
+      "desc": "Phom chai thon, thân thủy tinh có gân dọc và nhãn đỏ nổi bật trên sắc rượu.",
+      "features": [
+        "Thân chai có gân dọc",
+        "Nắp vặn màu sẫm",
+        "Nhãn Ngự Vị Nữ Hoàng Tưu"
+      ],
+      "images": [
+        16,
+        36,
+        25,
+        3,
+        13,
+        18,
+        31,
+        32,
+        37,
+        39,
+        43
+      ],
+      "cover": 16
+    }
+  ]
 }

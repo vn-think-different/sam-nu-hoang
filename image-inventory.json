@@ -1,0 +1,284 @@
+{
+  "excluded": [
+    {
+      "index": 2,
+      "reason": "Ảnh ghi chép, không phải ảnh sản phẩm"
+    },
+    {
+      "index": 28,
+      "reason": "Ảnh ghi chép, không phải ảnh sản phẩm"
+    }
+  ],
+  "families": [
+    {
+      "name": "Trống rượu gỗ sồi",
+      "slug": "trong-go-soi",
+      "photos": [
+        {
+          "index": 27,
+          "original": "1792023543135_3503495065499782808_3503495065499782808_1aa9cabcd34ebcc32ee7186097e9f2a2.jpg",
+          "asset": "assets/photo-27.webp"
+        },
+        {
+          "index": 40,
+          "original": "1792023543202_3503495065499782808_3503495065499782808_cd652cd3c87f0247e4bf43604e153987.jpg",
+          "asset": "assets/photo-40.webp"
+        },
+        {
+          "index": 17,
+          "original": "1792023543215_3503495065499782808_3503495065499782808_9aef9fa01ac59ea960ba21cd3348b8db.jpg",
+          "asset": "assets/photo-17.webp"
+        },
+        {
+          "index": 41,
+          "original": "1792023543226_3503495065499782808_3503495065499782808_64f80db963584290024f9eae2c97714d.jpg",
+          "asset": "assets/photo-41.webp"
+        },
+        {
+          "index": 42,
+          "original": "1792023543236_3503495065499782808_3503495065499782808_2f5738c08b569c22c5e45cb41820b6df.jpg",
+          "asset": "assets/photo-42.webp"
+        },
+        {
+          "index": 20,
+          "original": "1792023543186_3503495065499782808_3503495065499782808_63fb1ecadda82647ffe7d21f9e5f72eb.jpg",
+          "asset": "assets/photo-20.webp"
+        },
+        {
+          "index": 21,
+          "original": "1792023543167_3503495065499782808_3503495065499782808_6e72a9d497a518179a192eb1339649a0.jpg",
+          "asset": "assets/photo-21.webp"
+        },
+        {
+          "index": 38,
+          "original": "1792023543246_3503495065499782808_3503495065499782808_53ee86ee02adba09f5f78928f2aca2f7.jpg",
+          "asset": "assets/photo-38.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bình thủy tinh dáng trống",
+      "slug": "binh-dang-trong",
+      "photos": [
+        {
+          "index": 12,
+          "original": "1792023543287_3503495065499782808_3503495065499782808_52d7ad65108a29d7b8ba132b497ef422.jpg",
+          "asset": "assets/photo-12.webp"
+        },
+        {
+          "index": 22,
+          "original": "1792023543363_3503495065499782808_3503495065499782808_61518cfd6e4227799627a7c0001f24af.jpg",
+          "asset": "assets/photo-22.webp"
+        },
+        {
+          "index": 30,
+          "original": "1792023543372_3503495065499782808_3503495065499782808_966456565323559f401428b1ad9ceb4b.jpg",
+          "asset": "assets/photo-30.webp"
+        },
+        {
+          "index": 7,
+          "original": "1792023543306_3503495065499782808_3503495065499782808_1dbff7ceb6f213b666f79dc6bb102373.jpg",
+          "asset": "assets/photo-07.webp"
+        },
+        {
+          "index": 14,
+          "original": "1792023543316_3503495065499782808_3503495065499782808_77b1d86cc9bb1a091a768cdf681c9aee.jpg",
+          "asset": "assets/photo-14.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bình thủy tinh đa giác",
+      "slug": "binh-da-giac",
+      "photos": [
+        {
+          "index": 33,
+          "original": "1792023543276_3503495065499782808_3503495065499782808_f3553ab9766b6f598e4f99a7f60947d3.jpg",
+          "asset": "assets/photo-33.webp"
+        },
+        {
+          "index": 5,
+          "original": "1792023543325_3503495065499782808_3503495065499782808_92b09a0416f4a01f812e432d20f7aa04.jpg",
+          "asset": "assets/photo-05.webp"
+        },
+        {
+          "index": 6,
+          "original": "1792023543354_3503495065499782808_3503495065499782808_6c3c69331dc5192f502adf0da9f29d47.jpg",
+          "asset": "assets/photo-06.webp"
+        },
+        {
+          "index": 15,
+          "original": "1792023543391_3503495065499782808_3503495065499782808_de94cce3c25bab61f987d388b6426945.jpg",
+          "asset": "assets/photo-15.webp"
+        },
+        {
+          "index": 24,
+          "original": "1792023543297_3503495065499782808_3503495065499782808_0223c0597e7d9ca2ec26df07d6bef69c.jpg",
+          "asset": "assets/photo-24.webp"
+        },
+        {
+          "index": 9,
+          "original": "1792023543344_3503495065499782808_3503495065499782808_dcb1d7a233864fa955a3d47a31a1a7d2.jpg",
+          "asset": "assets/photo-09.webp"
+        },
+        {
+          "index": 11,
+          "original": "1792023543382_3503495065499782808_3503495065499782808_bb5e7087139409355be3e8a037b099e5.jpg",
+          "asset": "assets/photo-11.webp"
+        },
+        {
+          "index": 23,
+          "original": "1792023543334_3503495065499782808_3503495065499782808_0a955d4dab4f79441265839c36e657e8.jpg",
+          "asset": "assets/photo-23.webp"
+        }
+      ]
+    },
+    {
+      "name": "Bình hồ lô",
+      "slug": "binh-ho-lo",
+      "photos": [
+        {
+          "index": 45,
+          "original": "1792023543492_3503495065499782808_3503495065499782808_eb4c0a9948fd1ad21e214e6f58d10697.jpg",
+          "asset": "assets/photo-45.webp"
+        },
+        {
+          "index": 19,
+          "original": "1792023543557_3503495065499782808_3503495065499782808_0f4f14a3b281b80c51ab4318aadfbacb.jpg",
+          "asset": "assets/photo-19.webp"
+        },
+        {
+          "index": 0,
+          "original": "1792023543511_3503495065499782808_3503495065499782808_c54ba6e303e8f40323379f42449a6362.jpg",
+          "asset": "assets/photo-00.webp"
+        },
+        {
+          "index": 1,
+          "original": "1792023543567_3503495065499782808_3503495065499782808_e4b7f6fb45c3ff79506997339c7cc314.jpg",
+          "asset": "assets/photo-01.webp"
+        },
+        {
+          "index": 4,
+          "original": "1792023543639_3503495065499782808_3503495065499782808_c0c9ab338b55a4ee1242cde4ec719fc8.jpg",
+          "asset": "assets/photo-04.webp"
+        },
+        {
+          "index": 8,
+          "original": "1792023543603_3503495065499782808_3503495065499782808_1aa08ef9f71aeebe47e7a23f79631d4d.jpg",
+          "asset": "assets/photo-08.webp"
+        },
+        {
+          "index": 10,
+          "original": "1792023543529_3503495065499782808_3503495065499782808_9cbd0b262f7fb660da02ad04df4b33f7.jpg",
+          "asset": "assets/photo-10.webp"
+        },
+        {
+          "index": 26,
+          "original": "1792023543539_3503495065499782808_3503495065499782808_23485586ecccb1e3bb1a02d25003389c.jpg",
+          "asset": "assets/photo-26.webp"
+        },
+        {
+          "index": 29,
+          "original": "1792023543630_3503495065499782808_3503495065499782808_f4fef01d3d372fce1c31dffc55452958.jpg",
+          "asset": "assets/photo-29.webp"
+        },
+        {
+          "index": 34,
+          "original": "1792023543502_3503495065499782808_3503495065499782808_2149f4b37a50925bb3ad41e8cdeba952.jpg",
+          "asset": "assets/photo-34.webp"
+        },
+        {
+          "index": 35,
+          "original": "1792023543621_3503495065499782808_3503495065499782808_1a67f0c120a0f18f149d4c809b42b374.jpg",
+          "asset": "assets/photo-35.webp"
+        },
+        {
+          "index": 44,
+          "original": "1792023543520_3503495065499782808_3503495065499782808_0d348d14537894292f84573c49de81e2.jpg",
+          "asset": "assets/photo-44.webp"
+        },
+        {
+          "index": 46,
+          "original": "1792023543483_3503495065499782808_3503495065499782808_18934636ca77d4804269b966188ba15f.jpg",
+          "asset": "assets/photo-46.webp"
+        },
+        {
+          "index": 47,
+          "original": "1792023543548_3503495065499782808_3503495065499782808_a2e2a2104a274b94361b7d81db99641c.jpg",
+          "asset": "assets/photo-47.webp"
+        },
+        {
+          "index": 48,
+          "original": "1792023543593_3503495065499782808_3503495065499782808_c49edc232deb75f2df66bbbdbdbc166d.jpg",
+          "asset": "assets/photo-48.webp"
+        },
+        {
+          "index": 49,
+          "original": "1792023543612_3503495065499782808_3503495065499782808_76a6607fba629a13219f1b02576f8f81.jpg",
+          "asset": "assets/photo-49.webp"
+        }
+      ]
+    },
+    {
+      "name": "Chai thủy tinh",
+      "slug": "chai-thuy-tinh",
+      "photos": [
+        {
+          "index": 16,
+          "original": "1792023543401_3503495065499782808_3503495065499782808_a88f0c2f3df618e8ba684bf7042dae49.jpg",
+          "asset": "assets/photo-16.webp"
+        },
+        {
+          "index": 36,
+          "original": "1792023543410_3503495065499782808_3503495065499782808_794d4aad2d1fc0ed69de3dec7789fae1.jpg",
+          "asset": "assets/photo-36.webp"
+        },
+        {
+          "index": 25,
+          "original": "1792023543447_3503495065499782808_3503495065499782808_4a98b800eec6840da9ab858ff459a895.jpg",
+          "asset": "assets/photo-25.webp"
+        },
+        {
+          "index": 3,
+          "original": "1792023543465_3503495065499782808_3503495065499782808_e269bd0b42300fef7742e741f46df86c.jpg",
+          "asset": "assets/photo-03.webp"
+        },
+        {
+          "index": 13,
+          "original": "1792023543474_3503495065499782808_3503495065499782808_3b89fa3d3ce37a1142519be519ba3a55.jpg",
+          "asset": "assets/photo-13.webp"
+        },
+        {
+          "index": 18,
+          "original": "1792023543585_3503495065499782808_3503495065499782808_c5fc283cfd73ce16dd988102c02ede36.jpg",
+          "asset": "assets/photo-18.webp"
+        },
+        {
+          "index": 31,
+          "original": "1792023543428_3503495065499782808_3503495065499782808_f106addc9a204ad6524cb8f04554526d.jpg",
+          "asset": "assets/photo-31.webp"
+        },
+        {
+          "index": 32,
+          "original": "1792023543438_3503495065499782808_3503495065499782808_c2498c642eb54b1d383d55b89e8d9b8f.jpg",
+          "asset": "assets/photo-32.webp"
+        },
+        {
+          "index": 37,
+          "original": "1792023543576_3503495065499782808_3503495065499782808_bb1cdf24fdc01069ef94120f221f582c.jpg",
+          "asset": "assets/photo-37.webp"
+        },
+        {
+          "index": 39,
+          "original": "1792023543419_3503495065499782808_3503495065499782808_5ef9cf7ec16f272e4a338f7058d0b162.jpg",
+          "asset": "assets/photo-39.webp"
+        },
+        {
+          "index": 43,
+          "original": "1792023543456_3503495065499782808_3503495065499782808_c8d5b44f1e20762bfa7f09b61a9a6a97.jpg",
+          "asset": "assets/photo-43.webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,34 +1,32 @@
-# Sâm Nữ Hoàng
+# Sâm Nữ Hoàng — Ngự Vị Nữ Hoàng Tưu
 
-Website tĩnh tiếng Việt giới thiệu doanh nghiệp, sâm tươi, sâm khô, rượu sâm và cao sâm. Giao diện đáp ứng theo kích thước màn hình; không cần cài đặt thư viện JavaScript.
+Website tĩnh tiếng Việt của hộ kinh doanh cá thể Đỗ Thị Tuyết. Hotline 0972 686 765. Địa chỉ do chủ dự án cung cấp: Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng, Ứng Hòa, Hà Nội.
 
 ## Cấu trúc
 
-- `dist/index.html`: trang chủ.
-- `dist/gioi-thieu/`: giới thiệu doanh nghiệp.
-- `dist/san-pham/`: bộ lọc bốn danh mục và trang chi tiết từng danh mục.
-- `dist/kien-thuc/`: liên kết tới nguồn xuất bản gốc.
-- `dist/lien-he/`: thông tin liên hệ và danh sách quan tâm cục bộ.
-- Các trang hướng dẫn mua hàng, giao hàng/đổi trả, quyền riêng tư và điều khoản.
-- `content.json`: nội dung danh mục, nguồn tham khảo và chính sách.
-- `build.py`: dựng lại HTML từ nội dung; chạy `python build.py` (Python 3 và Pillow).
+21 trang: trang chủ, giới thiệu hộ kinh doanh, vùng trồng, bốn danh mục sản phẩm, năm trang quy cách rượu, thư viện 48 ảnh, kiến thức, liên hệ và bốn trang hỗ trợ/chính sách; có trang 404.
 
-Các ảnh WebP đã tối ưu nằm trong `dist/assets/`. Khi không có bộ ảnh gốc trong workspace, trình dựng giữ nguyên các ảnh đã đóng gói. CSS và JavaScript được lưu trực tiếp trong thư mục assets.
+- `content.json`: nội dung hộ kinh doanh, diện tích trồng, các dòng sản phẩm và năm nhóm bao bì rượu.
+- `image-inventory.json`: đối chiếu 48 ảnh sản phẩm và 2 ảnh ghi chép với tên gốc.
+- `build.py`: dựng HTML, sitemap, robots; `python build.py` (Python 3 và Pillow).
+- `dist/`: nội dung triển khai trên máy chủ tĩnh, không cần Node hoặc thư viện JavaScript ở runtime.
+- `dist/assets/`: ảnh WebP thực tế, CSS, JavaScript và phông Noto có ký tự tiếng Việt.
 
-## Chạy và triển khai
+Khi có ảnh gốc trong workspace, trình dựng tối ưu lại ảnh. Khi không có, giữ nguyên các ảnh đã đóng gói. Chạy `python -m http.server 8000 --directory dist` để xem cục bộ. Workflow GitHub Pages chạy bằng tay khi Pages đã được cấu hình với nguồn GitHub Actions.
 
-Chạy `python -m http.server 8000 --directory dist` để xem cục bộ. Mọi máy chủ website tĩnh đều có thể phục vụ thư mục `dist/`. Workflow GitHub Pages có thể chạy bằng tay khi chủ repo đã bật Pages với nguồn GitHub Actions. Liên kết tài nguyên dùng đường dẫn tương đối để hỗ trợ cả website gốc và đường dẫn repo.
+## Trải nghiệm
 
-## Các phần cần bổ sung trước khi bán hàng
+- Tìm kiếm không dấu và lọc gỗ sồi/thủy tinh trong bộ sưu tập.
+- Ảnh chính, ảnh nhỏ, phóng to, ảnh trước/sau, phím mũi tên và Escape.
+- Danh sách quan tâm lưu đúng nhóm quy cách; giữ tương thích dữ liệu cũ.
+- Tải danh sách dạng văn bản; gọi hotline trực tiếp. Chưa có thanh toán hoặc gửi đơn tự động.
+- Chuyển động xuất hiện khi cuộn và tương tác ảnh; tắt theo `prefers-reduced-motion`. Nội dung vẫn hiển thị khi JavaScript bị tắt.
+- Giao diện responsive, menu di động, điều hướng bằng bàn phím, metadata và dữ liệu LocalBusiness.
 
-1. Tên pháp nhân, mã số doanh nghiệp, địa chỉ, số điện thoại/Zalo, email.
-2. Ảnh sâm tươi, sâm khô, cao sâm; mã hàng, giá, khối lượng, tồn kho.
-3. Thành phần, nguồn nguyên liệu, bảo quản, hướng dẫn sử dụng và hồ sơ chất lượng.
-4. Dung tích, nồng độ cồn và nhãn chính thức của Ngự Vị Nữ Hoàng Tưu.
-5. Chính sách giao hàng, đổi trả, thanh toán và quy trình tiếp nhận đơn được doanh nghiệp phê duyệt.
+## Nguồn và giới hạn nội dung
 
-Chưa có checkout, thanh toán, gửi yêu cầu hoặc lưu đơn trên máy chủ. Danh sách quan tâm và ghi chú chỉ lưu trong localStorage; tệp tải về chưa được gửi tới doanh nghiệp. Không có giá giả, số điện thoại mẫu, chứng nhận hoặc công dụng chữa bệnh tự tạo.
+Tổng vùng trồng 3 ha: 2 ha tại Sóc Sơn, 1 ha tại Ứng Hòa, Hà Nội, theo chủ dự án. Không đưa ra chứng nhận, tuổi sâm, công dụng chữa bệnh hoặc thông số sản phẩm chưa có hồ sơ.
 
-## Nguồn nội dung
+Năm nhóm bao bì rượu: trống gỗ sồi, bình thủy tinh dáng trống, bình thủy tinh đa giác, bình hồ lô, chai thủy tinh. Nhiều góc ảnh không tương đương nhiều mã hàng. Dung tích, nồng độ cồn, giá, cấu hình sẵn có và giao nhận được xác nhận qua hotline.
 
-Chỉ sử dụng các ảnh rượu do chủ dự án cung cấp ở thư mục gốc của bộ dữ liệu. Các bài viết báo chí được dẫn liên kết tới nguồn; không đóng gói toàn văn, ảnh báo chí hoặc các tệp thu thập vào kho công khai. Xem `ASSET_SOURCES.md` để đối chiếu ảnh.
+Ảnh và hồ sơ chi tiết của sâm tươi, sâm khô, cao sâm sẽ bổ sung sau. Email, mã số đăng ký hộ kinh doanh và hồ sơ chất lượng chưa được cung cấp. Bài viết báo chí chỉ dẫn nguồn gốc. Xem `ASSET_SOURCES.md`.

@@ -1,9 +1,17 @@
-# Nguồn ảnh
+# Nguồn tài liệu và hình ảnh
 
-Ảnh do chủ dự án cung cấp trong thư mục gốc của tệp đính kèm; không lấy ảnh từ thư mục bài viết báo chí.
+Bộ ảnh gốc do chủ dự án đính kèm: 50 ảnh, gồm 48 ảnh sản phẩm và 2 ảnh ghi chép. Danh mục đối chiếu đầy đủ nằm trong `image-inventory.json`.
 
-- `dist/assets/hero.webp` ← `1792023543492_3503495065499782808_3503495065499782808_eb4c0a9948fd1ad21e214e6f58d10697.jpg`
-- `dist/assets/bottle.webp` ← `1792023543401_3503495065499782808_3503495065499782808_a88f0c2f3df618e8ba684bf7042dae49.jpg`
-- `dist/assets/jar.webp` ← `1792023543334_3503495065499782808_3503495065499782808_0a955d4dab4f79441265839c36e657e8.jpg`
-- `dist/assets/barrel.webp` ← `1792023543202_3503495065499782808_3503495065499782808_cd652cd3c87f0247e4bf43604e153987.jpg`
-- `dist/assets/gourd.webp` ← `1792023543557_3503495065499782808_3503495065499782808_0f4f14a3b281b80c51ab4318aadfbacb.jpg`
+- Trống gỗ sồi: 8 góc ảnh.
+- Bình thủy tinh dáng trống: 5 góc ảnh.
+- Bình thủy tinh đa giác: 8 góc ảnh.
+- Bình hồ lô: 16 góc ảnh.
+- Chai thủy tinh: 11 góc ảnh.
+
+Việc phân nhóm dựa trên hình dáng quan sát được; tên gỗ sồi được chủ dự án xác nhận. Không suy ra dung tích, thời gian ủ hoặc xuất xứ từ hình ảnh. Các nhóm là kiểu bao bì, không phải 48 mã sản phẩm.
+
+Ảnh số 2 và 28 là ghi chép; không đưa lên thư viện ảnh. Bài báo và ảnh báo chí không được đóng gói toàn văn vào website.
+
+Thông tin hộ kinh doanh, hotline, địa chỉ và vùng trồng lấy từ nội dung chủ dự án cung cấp ngày 15/10/2026. Giữ địa danh theo thông tin chủ dự án, không tự suy diễn địa chỉ hành chính mới.
+
+Phông chữ Noto Serif và Noto Sans được đóng gói cục bộ, có đủ ký tự tiếng Việt. Thông tin bản quyền và giấy phép OFL của phông nằm trong `dist/assets/fonts/LICENSE.txt`.
