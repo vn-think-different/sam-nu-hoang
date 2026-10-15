@@ -44,10 +44,14 @@ Năm nhóm bao bì rượu: trống gỗ sồi, bình thủy tinh dáng trống,
 
 Build: `python build.py` (Pillow cần cài). Tệp `prepare_editorial.py` là bản khởi tạo dữ liệu; không chạy lại sau khi sửa JSON thủ công.
 
-Giới hạn: đây là bản duyệt riêng tư/noindex, chưa xác nhận giá và thông số; cao sâm là hình bao bì đề xuất. Không có xử lý thanh toán hay gửi đơn. Logo PNG cần vector hóa sau khi duyệt để in ấn. Các ảnh xử lý AI không dùng để đọc thành phần nhãn.
+Giới hạn: giá và quy cách vẫn là dữ liệu bản duyệt, chưa xác nhận giá và thông số; cao sâm là hình bao bì đề xuất. Không có xử lý thanh toán hay gửi đơn. Logo PNG cần vector hóa sau khi duyệt để in ấn. Các ảnh xử lý AI không dùng để đọc thành phần nhãn.
 
 ## Vercel
 
 `vercel.json` phục vụ trực tiếp website đã tạo trong `dist/`. Không cần cài Python/Pillow trên Vercel. Build Command chạy `node scripts/verify-static.mjs` để phát hiện đầu ra thiếu, sau đó Vercel xuất bản thư mục `dist`.
 
 Trong Vercel: Root Directory để trống (gốc repo), Framework Preset = Other; các thiết lập build/output lấy từ `vercel.json`. Production Branch = main. Nếu đang xem deployment cũ 1c688a0, tạo deployment từ commit mới thay vì redeploy lại commit cũ.
+
+## SEO & chia sẻ
+
+Xem `SEO.md`. Vercel dùng canonical `https://samnuhoang.vercel.app`, metadata Open Graph có ảnh, sitemap và robots cho phép crawl. Chạy `python scripts/check-seo.py` sau build. Search Console cần mã xác minh thật của chủ sở hữu; chưa gắn mã analytics.

@@ -1,6 +1,6 @@
 # Giá tham khảo và số liệu bản duyệt — 15/10/2026
 
-Tất cả giá, khối lượng, dung tích và nồng độ trong `prototype-catalog.json` đều là dữ liệu giả định để chủ hộ duyệt, không phải báo giá hoặc kiểm nghiệm đã xác nhận. Chưa có thanh toán/gửi đơn. Website được giữ riêng tư và đặt noindex.
+Tất cả giá, khối lượng, dung tích và nồng độ trong `prototype-catalog.json` đều là dữ liệu giả định để chủ hộ duyệt, không phải báo giá hoặc kiểm nghiệm đã xác nhận. Chưa có thanh toán/gửi đơn. Website đã được chủ hộ yêu cầu triển khai trên Vercel và bổ sung SEO. Giá giả định không được đưa vào structured data Offer.
 
 - Cao 100g: mốc 790.000đ lấy từ https://samnuhoangvietnam.com/san-pham/cao-sam-nu-hoang-205 . Đây là sản phẩm của đơn vị khác, không xác nhận công thức/bao bì của Đỗ Thị Tuyết.
 - Củ tươi: https://khuyennonghanoi.gov.vn/Pages/xa-thach-that-phat-trien-nong-nghiep-da-gia-tri-hieu-qua-cao.aspx đề cập giá thu mua khoảng 500.000đ/kg tại mô hình khác. Giá bán lẻ mẫu 650.000đ/kg do người thiết kế giả định, không trích như báo giá thị trường.
