@@ -9,3 +9,11 @@ Tất cả giá, khối lượng, dung tích và nồng độ trong `prototype-c
 - Rượu: mọi mức 30% vol và dung tích đều giả định, không đọc ra từ ảnh. Thành phần nhãn ảnh AI không được dùng như thông tin sản phẩm; giữ ảnh gốc để đối chiếu.
 
 Chỉnh số liệu ở `prototype-catalog.json`, chạy `python build.py`. Không lấy số liệu Rumex trong bài viết để tuyên bố công dụng hay chất lượng của sản phẩm cụ thể.
+
+
+## Cập nhật trực tiếp từ chủ hộ — 17/10/2026
+- Gỗ sồi: 10 lít, giá bán công khai 6.800.000đ; bỏ các lựa chọn 5 lít và mức giá mẫu cũ.
+- Thủy tinh dáng trống: 3 lít, giá cốt 2.800.000đ.
+- Chai thủy tinh: 500 ml, giá bán công khai 500.000đ.
+- Hồ lô: giá cốt 1.200.000đ, chưa xác nhận dung tích.
+Các mức này thay thế dữ liệu giả định trước đó. Giá cốt không tự chuyển thành giá bán lẻ. Những sản phẩm chưa được cập nhật vẫn mang nhãn giả định.

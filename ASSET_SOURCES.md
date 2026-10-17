@@ -24,3 +24,7 @@ Phông chữ Noto Serif và Noto Sans được đóng gói cục bộ, có đủ
 - `cao`: thiết kế bao bì minh họa AI. Ảnh Internet tại trang giá tham khảo không tải được; không giả mạo đây là ảnh sản phẩm có thật.
 - Ảnh bài viết `scientist`, `field`, `seedlings`, `farm-reference`, `fresh-reference`, `slices-reference`: xuất WebP từ bộ tài liệu người dùng. Nguồn/credit được ghi dưới ảnh và trong JSON nguồn. Không gán ảnh người khác hoặc vùng trồng khác cho Đỗ Thị Tuyết.
 - Tham khảo định hướng cấu trúc bộ sưu tập từ https://www.hennessy.com/en-int/collection và cách phân nhóm dòng sản phẩm từ https://vn.sulwhasoo.com/ . Không sao chép logo, thiết kế hay ảnh của hai thương hiệu.
+
+
+## Tư liệu chủ hộ bổ sung 17/10/2026
+13 ảnh và 2 video từ co_tuyet.zip. Đối chiếu tên gốc trong farm-media.json. Ảnh chỉ tối ưu kích thước/định dạng; video giữ toàn bộ thời lượng và âm thanh, nén H.264/AAC để phát trên web. Không gán danh tính, địa điểm hay ngày quay cho từng khung hình khi chưa được xác nhận.

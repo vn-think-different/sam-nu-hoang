@@ -4,7 +4,7 @@ Tên miền chuẩn: https://samnuhoang.vercel.app . Đổi một lần qua bi�
 
 Đã triển khai:
 - Metadata trong HTML gốc: tiêu đề, mô tả, canonical, robots, Open Graph, Twitter large image. Không cần chạy JavaScript để bot đọc.
-- Ảnh chia sẻ trang chủ JPEG 1200×630 tại `/assets/social/sam-nu-hoang-v1.jpg`; bài tư liệu có ảnh riêng và đúng kích thước khai báo. Không đưa giá giả định vào banner.
+- Ảnh chia sẻ trang chủ JPEG 1200×630 tại `/assets/social/sam-nu-hoang-v2.jpg`; bài tư liệu có ảnh riêng và đúng kích thước khai báo. Không đưa giá giả định vào banner.
 - robots.txt cho phép crawl; sitemap.xml chỉ gồm trang indexable. Trang 404 và trang tải bộ nhận diện vẫn noindex,follow.
 - JSON-LD WebSite, LocalBusiness, WebPage, BreadcrumbList, BlogPosting; Product cho các mẫu rượu. Không có Offer/giá/nồng độ/tồn kho/đánh giá giả định trong structured data. Vì chưa có giá được xác nhận, chưa đặt mục tiêu hiển thị rich result bán hàng.
 - Biểu tượng PNG, Apple touch icon và manifest nhận diện; không tuyên bố offline/PWA.
@@ -32,3 +32,6 @@ Nguồn kỹ thuật:
 - https://developers.google.com/search/docs/appearance/structured-data/product-snippet
 
 Ảnh banner được dựng bằng công cụ tạo ảnh tích hợp, dựa trên logo và ảnh sản phẩm đã được cung cấp. Brief: banner bordeaux/vàng champagne, thương hiệu Đỗ Thị Tuyết — Sâm Nữ Hoàng, trống gỗ sồi và bình hồ lô; loại bỏ mọi củ, quả hoặc nguyên liệu trang trí ngoài hai mẫu bao bì.
+
+
+Cập nhật 15/10/2026: thống nhất Ngự Vị Nữ Hoàng Tửu; 12 bài biên soạn, gồm 4 chuyên đề mới có nguồn dẫn. Ảnh royal-salon và royal-gift là phối cảnh AI, hộp quà là thiết kế đề xuất; không phải bằng chứng về lịch sử cung đình hay thông số thành phẩm.
