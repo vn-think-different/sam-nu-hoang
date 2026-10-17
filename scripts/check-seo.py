@@ -22,6 +22,7 @@ class Head(HTMLParser):
 indexed=set();images=set();article_count=0
 for p in root.rglob('*.html'):
  h=Head();raw=p.read_text();h.feed(raw)
+ assert 'T\u01b0u' not in raw and 'T\u01afU' not in raw,(p,'old brand spelling')
  assert len(h.canonical)==1,(p,'canonical count')
  url=h.canonical[0];assert url.startswith(origin+'/'),url
  assert 'sam-nu-hoang.dewy-crumb-9497.chatgpt.site' not in raw,p
@@ -40,5 +41,5 @@ for p in root.rglob('*.html'):
 sitemap={e.text for e in ET.parse(root/'sitemap.xml').findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
 assert sitemap==indexed,(sitemap^indexed)
 robots=(root/'robots.txt').read_text();assert 'Disallow: /' not in robots and origin+'/sitemap.xml' in robots
-assert article_count==8
-print(f'SEO verified: 30 pages, {len(indexed)} indexable URLs, {article_count} article schemas, {len(images)} social images. No fictional offers/reviews.')
+assert article_count==len(json.loads((root.parent/'articles.json').read_text()))
+print(f'SEO verified: {len(list(root.rglob("*.html")))} pages, {len(indexed)} indexable URLs, {article_count} article schemas, {len(images)} social images. No fictional offers/reviews.')

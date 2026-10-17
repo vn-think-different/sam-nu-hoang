@@ -1,4 +1,4 @@
-# Sâm Nữ Hoàng — Ngự Vị Nữ Hoàng Tưu
+# Sâm Nữ Hoàng — Ngự Vị Nữ Hoàng Tửu
 
 Website tĩnh tiếng Việt của hộ kinh doanh cá thể Đỗ Thị Tuyết. Hotline 0972 686 765. Địa chỉ do chủ dự án cung cấp: Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng, Ứng Hòa, Hà Nội.
 
@@ -55,3 +55,8 @@ Trong Vercel: Root Directory để trống (gốc repo), Framework Preset = Othe
 ## SEO & chia sẻ
 
 Xem `SEO.md`. Vercel dùng canonical `https://samnuhoang.vercel.app`, metadata Open Graph có ảnh, sitemap và robots cho phép crawl. Chạy `python scripts/check-seo.py` sau build. Search Console cần mã xác minh thật của chủ sở hữu; chưa gắn mã analytics.
+
+
+Cập nhật 15/10/2026: thống nhất Ngự Vị Nữ Hoàng Tửu; 12 bài biên soạn, gồm 4 chuyên đề mới có nguồn dẫn. Ảnh royal-salon và royal-gift là phối cảnh AI, hộp quà là thiết kế đề xuất; không phải bằng chứng về lịch sử cung đình hay thông số thành phẩm.
+
+Cập nhật 17/10/2026: 36 trang, 14 bài viết; bốn mức giá rượu đã được chủ hộ xác nhận là giá bán công khai. 11 ảnh vùng trồng đã khôi phục; 2 ảnh cuối và 2 video cần bổ sung lại tệp nguồn trước khi xuất bản.

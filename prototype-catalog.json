@@ -1,33 +1,29 @@
 {
   "trong-go-soi": {
     "asset": "oak",
-    "abv": "30% vol",
-    "assumed": true,
+    "abv": "",
+    "assumed": false,
     "variants": [
       {
-        "label": "5 lít",
-        "price": 3900000
-      },
-      {
         "label": "10 lít",
-        "price": 6900000
+        "price": 6800000
       }
-    ]
+    ],
+    "price_kind": "public",
+    "updated": "17/10/2026"
   },
   "binh-dang-trong": {
     "asset": "round",
-    "abv": "30% vol",
-    "assumed": true,
+    "abv": "",
+    "assumed": false,
     "variants": [
       {
         "label": "3 lít",
-        "price": 1890000
-      },
-      {
-        "label": "5 lít",
-        "price": 2890000
+        "price": 2800000
       }
-    ]
+    ],
+    "price_kind": "public",
+    "updated": "17/10/2026"
   },
   "binh-da-giac": {
     "asset": "faceted",
@@ -46,40 +42,32 @@
   },
   "binh-ho-lo": {
     "asset": "gourd",
-    "abv": "30% vol",
-    "assumed": true,
+    "abv": "",
+    "assumed": false,
     "variants": [
       {
-        "label": "1 lít",
-        "price": 890000
-      },
-      {
-        "label": "2 lít",
-        "price": 1490000
-      },
-      {
-        "label": "3 lít",
-        "price": 2090000
+        "label": "Bình hồ lô · dung tích cần xác nhận",
+        "price": 1200000
       }
-    ]
+    ],
+    "price_kind": "public",
+    "updated": "17/10/2026"
   },
   "chai-thuy-tinh": {
     "asset": "bottle",
-    "abv": "30% vol",
-    "assumed": true,
+    "abv": "",
+    "assumed": false,
     "variants": [
       {
         "label": "500 ml",
-        "price": 590000
-      },
-      {
-        "label": "750 ml",
-        "price": 790000
+        "price": 500000
       }
-    ]
+    ],
+    "price_kind": "public",
+    "updated": "17/10/2026"
   },
   "sam-tuoi": {
-    "asset": "fresh",
+    "asset": "farm/farm-09",
     "abv": "",
     "assumed": true,
     "variants": [

@@ -12,10 +12,10 @@ def seo_image(slug):
   if path.exists():
    with Image.open(path) as im:w,h=im.size
    return SITE_URL+f'/assets/social/{key}.jpg',w,h,ARTMAP[slug.split('/')[-1]]['caption']
- return SITE_URL+'/assets/social/sam-nu-hoang-v1.jpg',1200,630,'Sâm Nữ Hoàng Đỗ Thị Tuyết — Ngự Vị Nữ Hoàng Tưu, trống gỗ sồi và bình hồ lô'
+ return SITE_URL+'/assets/social/sam-nu-hoang-v2.jpg',1200,630,'Sâm Nữ Hoàng Đỗ Thị Tuyết — Ngự Vị Nữ Hoàng Tửu, trống gỗ sồi và bình hồ lô'
 def seo_graph(slug,title,description):
  url=canonical(slug);image_url,w,h,alt=seo_image(slug)
- business={'@type':'LocalBusiness','@id':SITE_URL+'/#business','name':SITE_NAME,'legalName':B['name'],'url':SITE_URL+'/','image':SITE_URL+'/assets/social/sam-nu-hoang-v1.jpg','logo':{'@type':'ImageObject','url':SITE_URL+'/assets/logo-original.png'},'telephone':'+84972686765','address':{'@type':'PostalAddress','streetAddress':'Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng','addressLocality':'Ứng Hòa','addressRegion':'Hà Nội','addressCountry':'VN'}}
+ business={'@type':'LocalBusiness','@id':SITE_URL+'/#business','name':SITE_NAME,'legalName':B['name'],'url':SITE_URL+'/','image':SITE_URL+'/assets/social/sam-nu-hoang-v2.jpg','logo':{'@type':'ImageObject','url':SITE_URL+'/assets/logo-original.png'},'telephone':'+84972686765','address':{'@type':'PostalAddress','streetAddress':'Số 19A, ngõ 17, thôn Trung Thượng, xã Đại Hùng','addressLocality':'Ứng Hòa','addressRegion':'Hà Nội','addressCountry':'VN'}}
  graph=[business,{'@type':'WebSite','@id':SITE_URL+'/#website','url':SITE_URL+'/','name':SITE_NAME,'alternateName':'Sâm Nữ Hoàng','inLanguage':'vi-VN','publisher':{'@id':SITE_URL+'/#business'}}]
  page={'@type':'WebPage','@id':url+'#webpage','url':url,'name':title,'description':description,'inLanguage':'vi-VN','isPartOf':{'@id':SITE_URL+'/#website'},'primaryImageOfPage':{'@type':'ImageObject','url':image_url,'width':w,'height':h}}
  if slug=='gioi-thieu':page['@type']='AboutPage'
@@ -33,7 +33,7 @@ def seo_graph(slug,title,description):
   graph.append({'@type':'BlogPosting','@id':url+'#article','mainEntityOfPage':{'@id':url+'#webpage'},'headline':a['title'],'description':a['intro'],'image':[image_url],'datePublished':published,'inLanguage':'vi-VN','articleSection':a['tag'],'author':{'@type':'Organization','name':SITE_NAME,'url':SITE_URL+'/gioi-thieu/'},'publisher':{'@id':SITE_URL+'/#business'},'citation':[x['url'] for x in a['sources']]})
  elif slug.startswith('san-pham/ruou-sam/'):
   key=slug.split('/')[-1];w=families[key]
-  graph.append({'@type':'Product','@id':url+'#product','name':'Ngự Vị Nữ Hoàng Tưu — '+w['name'],'description':w['desc'],'image':[SITE_URL+f'/assets/photo-{w["cover"]:02d}.webp'],'brand':{'@type':'Brand','name':'Ngự Vị Nữ Hoàng Tưu'},'url':url})
+  graph.append({'@type':'Product','@id':url+'#product','name':'Ngự Vị Nữ Hoàng Tửu — '+w['name'],'description':w['desc'],'image':[SITE_URL+f'/assets/photo-{w["cover"]:02d}.webp'],'brand':{'@type':'Brand','name':'Ngự Vị Nữ Hoàng Tửu'},'url':url})
   # Never publish hypothetical price, stock, ABV or invented reviews as structured facts.
  graph.append(page)
  return {'@context':'https://schema.org','@graph':graph}

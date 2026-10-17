@@ -1,5 +1,399 @@
 [
   {
+    "slug": "nhat-ky-vuon-sam-do-thi-tuyet",
+    "title": "Nhật ký vườn sâm Đỗ Thị Tuyết: từ hàng cây đến công việc chăm sóc",
+    "image": "farm/farm-06",
+    "tag": "TƯ LIỆU TỪ VƯỜN",
+    "caption": "Ảnh chăm sóc luống cây do chủ hộ cung cấp trong co_tuyet.zip.",
+    "intro": "Những hàng cây, lối đi giữa luống và người chăm sóc đem lại một góc nhìn gần gũi về vùng nguyên liệu. Bộ tư liệu mới ghi lại công việc thực tế phía sau câu chuyện Sâm Nữ Hoàng.",
+    "sections": [
+      [
+        "Một góc nhìn từ chính khu trồng",
+        "Trong ảnh và hai đoạn video do chủ hộ cung cấp, cây được bố trí theo hàng, có lối đi giữa các luống và lớp màng phủ trên mặt luống. Góc quay đi dọc theo hàng cây giúp người xem nhận ra khoảng cách, tán lá và cách tổ chức không gian trồng rõ hơn so với một ảnh chụp tổng thể.\n\nĐây là giá trị của tư liệu tại chỗ: người đọc có thể tự quan sát cảnh quan và công việc. Bộ ảnh không kèm ngày chụp hoặc nhãn địa điểm từng khung hình, vì vậy không gán riêng từng ảnh cho Sóc Sơn hay Ứng Hòa."
+      ],
+      [
+        "Chăm sóc là một phần của câu chuyện nguyên liệu",
+        "Ảnh chụp cho thấy người làm vườn cúi xuống bên hàng cây. Trong video thứ hai, hoạt động chăm sóc xuất hiện giữa không gian vườn rộng. Những chi tiết ấy đưa con người trở lại trung tâm câu chuyện: một vùng nguyên liệu không chỉ được mô tả bằng diện tích, mà còn bằng thời gian và sự hiện diện của người chăm sóc.\n\nTừ hình ảnh có thể mô tả bố trí luống và thao tác đang diễn ra; để viết thành hướng dẫn kỹ thuật, cần thêm nhật ký về giống, thời điểm trồng, nước tưới, phân bón và từng đợt chăm sóc. Bài viết này giới thiệu tư liệu quan sát, không biến một khoảnh khắc thành quy trình canh tác áp dụng cho mọi vườn."
+      ],
+      [
+        "Ba héc-ta tại Hà Nội, theo thông tin chủ hộ",
+        "Hộ kinh doanh Đỗ Thị Tuyết cung cấp thông tin tổng diện tích trồng 3 ha, gồm 2 ha tại Sóc Sơn và 1 ha tại Ứng Hòa. Những con số này tạo bối cảnh cho phần giới thiệu vùng nguyên liệu; ảnh và video bổ sung trải nghiệm nhìn thấy hàng cây, người chăm sóc và nguyên liệu sau khi đưa khỏi đất.\n\nNguồn giống, theo chủ hộ, được nhập và trồng với sự cho phép của MS Thiên Ngọc, gắn với GS.TS Võ Thị Ngọc. Người đọc có thể đối chiếu câu chuyện nghiên cứu giống trong bài báo được dẫn ở cuối trang và tìm hiểu thêm ở chuyên mục nguồn giống của website."
+      ],
+      [
+        "Từ nhật ký vườn đến Ngự Vị Nữ Hoàng Tửu",
+        "Khi giới thiệu Ngự Vị Nữ Hoàng Tửu, câu chuyện vùng trồng giúp người mua hiểu thêm nền tảng nguyên liệu mà hộ kinh doanh đang phát triển. Sự kết nối có ý nghĩa nhất khi đi cùng hồ sơ của từng lô: nguyên liệu lấy ở đâu, dùng bộ phận nào, được xử lý và phối hợp như thế nào.\n\nBộ tư liệu hiện tại làm phong phú câu chuyện trồng và chăm sóc. Nó không thay thế hồ sơ truy xuất của từng bình rượu. Vì thế, website đặt ảnh vườn trong mạch kể về nguyên liệu, còn dung tích và giá được trình bày tại từng trang sản phẩm để người đọc tiện đối chiếu."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Tư liệu ảnh và video do chủ hộ cung cấp — thư viện trên website",
+        "url": "https://samnuhoang.vercel.app/vung-trong/#tu-lieu-vuon"
+      },
+      {
+        "name": "Báo Nông nghiệp và Môi trường — Cây MS Nữ Hoàng, viên ngọc mới của dược liệu Việt Nam",
+        "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-vien-ngoc-moi-cua-duoc-lieu-viet-nam-d769002.html"
+      }
+    ],
+    "section_sources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1
+      ]
+    ],
+    "related": [
+      "tu-cu-sam-den-cau-chuyen-ngu-vi",
+      "ngu-vi-nu-hoang-tuu-cau-chuyen-nguon-sam"
+    ],
+    "media": [
+      6,
+      7,
+      5
+    ],
+    "date": "17/10/2026"
+  },
+  {
+    "slug": "tu-cu-sam-den-cau-chuyen-ngu-vi",
+    "title": "Từ củ sâm sau thu hoạch đến câu chuyện Ngự Vị Nữ Hoàng Tửu",
+    "image": "farm/farm-09",
+    "tag": "NGUYÊN LIỆU & THÀNH PHẨM",
+    "caption": "Củ và rễ trong bộ ảnh do chủ hộ cung cấp; ảnh tư liệu nguyên liệu, không phải ảnh thành phần của một lô rượu cụ thể.",
+    "intro": "Hình dáng củ, những nhánh rễ và thao tác cân nguyên liệu mở ra một cách kể chuyện gần với thực tế hơn: quan sát nguyên liệu trước khi nói đến thành phẩm.",
+    "sections": [
+      [
+        "Đọc câu chuyện từ hình dáng củ và rễ",
+        "Bộ ảnh mới có các góc chụp củ và bộ rễ tại vườn, nguyên liệu đặt trong giỏ và những phần rễ xếp thành hàng. Sự khác nhau về hình dáng, số nhánh và kích thước là điều người đọc có thể nhìn thấy trực tiếp. Một bức ảnh cận cảnh vì thế có giá trị riêng: nó làm rõ cấu trúc mà ảnh toàn cảnh không thể hiện được.\n\nKích thước lớn hoặc màu sắc nổi bật không tự cho biết tuổi cây, hàm lượng hoạt chất hay chất lượng một lô. Những thông tin ấy cần hồ sơ và phép đo phù hợp; phần chú thích giữ đúng phạm vi quan sát để ảnh có thể làm bằng chứng về hình dáng mà không bị giao thêm ý nghĩa chưa được xác nhận."
+      ],
+      [
+        "Cân nguyên liệu: một bước cần đi cùng thông tin",
+        "Hai ảnh đầu ghi lại củ và rễ trên cân cơ học; một ảnh khác cho thấy giỏ nguyên liệu đặt trên cân. Đây là những khoảnh khắc phù hợp để giới thiệu việc quan sát và ghi nhận nguyên liệu sau thu hoạch.\n\nMuốn công bố khối lượng chính xác cần đọc rõ mặt cân, biết khối lượng giỏ hoặc vật đỡ, và xác định tình trạng nguyên liệu lúc cân. Website không suy ra năng suất hay khối lượng bán từ các ảnh này. Khi chủ hộ bổ sung sổ ghi chép, thông tin đó có thể đi cùng ảnh để tạo thành nhật ký lô nguyên liệu đầy đủ hơn."
+      ],
+      [
+        "Nguyên liệu sâm và rượu ngâm là hai tầng thông tin",
+        "Tư liệu báo chí được dẫn trên website giúp tìm hiểu cây MS Nữ Hoàng và quá trình nghiên cứu giống. Trong khi đó, Ngự Vị Nữ Hoàng Tửu là câu chuyện thành phẩm: cần thông tin về nguyên liệu sử dụng, nền rượu, công thức, quá trình xử lý và nhãn của từng quy cách.\n\nẢnh củ tạo sự kết nối với vùng trồng, nhưng không đủ để xác nhận chính những củ trong ảnh đã được dùng trong một bình rượu nhất định. Cũng không thể chuyển thông tin về thành phần của cây thành lời khẳng định tác dụng sức khỏe của rượu. Đọc riêng hai tầng thông tin này giúp người mua đặt câu hỏi rõ ràng và nhận tư vấn đúng sản phẩm."
+      ],
+      [
+        "Trình bày trang trọng, giữ câu chuyện chân thực",
+        "Với Ngự Vị Nữ Hoàng Tửu, vẻ trang trọng có thể đến từ sắc đỏ trầm, đường viền vàng, dáng bình và cách đặt ảnh trong khoảng trắng rộng. Ảnh tư liệu nguyên liệu nên được giữ như tư liệu; ảnh phối cảnh quà tặng có thể dùng để thể hiện tinh thần thiết kế, với chú thích rõ ràng.\n\nCách trình bày ấy cho phép hai giá trị cùng hiện diện: nét gần gũi của công việc ngoài vườn và sự chăm chút của một sản phẩm được giới thiệu như món quà. Người đọc có thể chuyển từ câu chuyện củ sâm sang bộ sưu tập để xem bình gỗ sồi 10 lít, bình thủy tinh dáng trống 3 lít, chai 500 ml và bình hồ lô theo thông tin mới nhất của chủ hộ."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Ảnh nguyên liệu do chủ hộ cung cấp — thư viện tư liệu",
+        "url": "https://samnuhoang.vercel.app/vung-trong/#tu-lieu-vuon"
+      },
+      {
+        "name": "Báo Nông nghiệp và Môi trường — Cây MS Nữ Hoàng, viên ngọc mới của dược liệu Việt Nam",
+        "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-vien-ngoc-moi-cua-duoc-lieu-viet-nam-d769002.html"
+      },
+      {
+        "name": "Bộ sưu tập Ngự Vị Nữ Hoàng Tửu — quy cách và giá cập nhật",
+        "url": "https://samnuhoang.vercel.app/san-pham/ruou-sam/"
+      }
+    ],
+    "section_sources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "related": [
+      "ruou-ngam-sam-nguyen-lieu-va-thanh-pham",
+      "nhat-ky-vuon-sam-do-thi-tuyet"
+    ],
+    "media": [
+      4,
+      8,
+      10
+    ],
+    "date": "17/10/2026"
+  },
+  {
+    "slug": "ngu-vi-nu-hoang-tuu-cau-chuyen-nguon-sam",
+    "title": "Ngự Vị Nữ Hoàng Tửu: câu chuyện bắt đầu từ nguồn sâm",
+    "tag": "CHUYÊN ĐỀ NGỰ VỊ",
+    "image": "royal-salon",
+    "caption": "Thiết kế minh họa phong cách cung đình từ ảnh bình hồ lô; không gian được dựng bằng AI, không phải tư liệu lịch sử.",
+    "intro": "Một dòng rượu có bản sắc cần nhiều hơn một chiếc bình đẹp. Với Ngự Vị Nữ Hoàng Tửu, câu chuyện được xây dựng từ giống cây, người trồng và cách giới thiệu sản phẩm một cách rõ ràng.",
+    "sections": [
+      [
+        "Trước tên rượu là tên của nguyên liệu",
+        "Ngự Vị Nữ Hoàng Tửu được hộ kinh doanh Đỗ Thị Tuyết giới thiệu trong nhóm rượu sâm. Để tìm hiểu dòng sản phẩm này, điểm xuất phát hợp lý là giống sâm được nhắc đến trong bộ tư liệu: MS Nữ Hoàng. Bài viết của Báo Nông nghiệp và Môi trường liên hệ giống cây với Rumex crispus L.; cơ sở dữ liệu thực vật của Kew xếp loài này trong họ Polygonaceae.\n\nSự phân biệt ấy có ý nghĩa khi đọc thông tin sản phẩm. Tên thương mại có chữ “sâm” không làm cho nguyên liệu trở thành nhân sâm thuộc chi Panax. Một câu chuyện thương hiệu có chiều sâu nên giữ đúng danh tính nguyên liệu, từ đó giúp người đọc hiểu vì sao các tư liệu về giống cây là phần mở đầu, chứ chưa phải hồ sơ chứng minh thành phần của rượu thành phẩm."
+      ],
+      [
+        "Người nghiên cứu giống và người phát triển sản phẩm",
+        "Các tư liệu báo chí giới thiệu bà Võ Thị Ngọc gắn với quá trình nghiên cứu MS Nữ Hoàng và Công ty TNHH Lương thực MS Thiên Ngọc. Vai trò nghiên cứu, nhân giống và tổ chức nguồn cây con cần được tách biệt với vai trò của từng hộ trồng, chế biến hoặc giới thiệu sản phẩm.\n\nTheo thông tin chủ hộ cung cấp, hộ kinh doanh Đỗ Thị Tuyết nhập giống và trồng theo sự cho phép của MS Thiên Ngọc. Đây là mối liên hệ nguồn giống được thương hiệu công bố; không nên diễn giải thành việc bà Võ Thị Ngọc là người xây dựng công thức Ngự Vị Nữ Hoàng Tửu hoặc đã chứng nhận chất lượng từng bình rượu. Sự phân định rõ vai trò giúp nguồn trích dẫn có giá trị thực tế."
+      ],
+      [
+        "Hai vùng trồng, một điểm tựa tại Hà Nội",
+        "Chủ hộ cung cấp tổng diện tích trồng 3 ha, gồm 2 ha tại Sóc Sơn và 1 ha tại Ứng Hòa. Những địa điểm này tạo nên phần cụ thể trong câu chuyện Đỗ Thị Tuyết: nguyên liệu được đặt trong mối liên hệ với đất trồng và người chịu trách nhiệm giới thiệu sản phẩm.\n\nĐể câu chuyện tiếp tục có chiều sâu, thông tin có thể được nối thêm bằng ảnh thực địa theo mùa, nhật ký canh tác và hồ sơ từng đợt thu hoạch. Ảnh vườn từ báo chí được dùng để giải thích giống cây luôn cần ghi đúng nguồn; không thay thế cho ảnh của hai vùng trồng. Khách hàng nhờ đó phân biệt được tư liệu tham khảo với thông tin của chính hộ kinh doanh."
+      ],
+      [
+        "Từ nguyên liệu đến dòng rượu: một bước cần hồ sơ riêng",
+        "Tư liệu HTV cho thấy phần củ MS Nữ Hoàng được làm sạch và cắt lát. Đó là một hình ảnh hữu ích để nhận biết dạng nguyên liệu sơ chế. Tuy nhiên, từ hình cắt lát không thể suy ra tỷ lệ nguyên liệu, nền rượu, thời gian ngâm hoặc nồng độ của Ngự Vị Nữ Hoàng Tửu.\n\nMột hồ sơ sản phẩm đầy đủ cần gắn các thông tin ấy với đúng mã hàng và lô sản xuất. Khi có tài liệu của hộ kinh doanh, website có thể nối câu chuyện nguồn giống với phần chế biến và thành phẩm một cách liền mạch. Trước thời điểm đó, những con số ở bộ chọn quy cách vẫn được ghi là dữ liệu giả định để duyệt, không được dùng như bằng chứng về chất lượng."
+      ],
+      [
+        "Bản sắc được thể hiện qua cách trình bày",
+        "Tên gọi Ngự Vị Nữ Hoàng Tửu được đặt trong hệ thống màu đỏ trầm, vàng champagne và nền ngà. Dáng hồ lô, chai thủy tinh và trống gỗ sồi cho phép mỗi sản phẩm có một cách hiện diện riêng. Đây là lựa chọn thẩm mỹ đương đại lấy cảm hứng trang trọng, không phải tuyên bố về xuất xứ cung đình.\n\nGiá trị của câu chuyện nằm ở sự gắn kết: một tên giống được giải thích đúng, một chủ thể kinh doanh có địa chỉ và hotline rõ ràng, một bộ ảnh có thể đối chiếu, cùng những nội dung có nguồn để đọc tiếp. Sự chăm chút ấy tạo nền tảng để khách hàng tìm hiểu sản phẩm bằng thông tin cụ thể, bên cạnh ấn tượng từ hình thức."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Kew — Plants of the World Online: Rumex crispus L.",
+        "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A224413-2/general-information"
+      },
+      {
+        "name": "Báo Nông nghiệp và Môi trường — Cây MS Nữ Hoàng, viên ngọc mới",
+        "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-vien-ngoc-moi-cua-duoc-lieu-viet-nam-d769002.html"
+      },
+      {
+        "name": "Thông tin hộ kinh doanh Đỗ Thị Tuyết — do chủ hộ cung cấp",
+        "url": "https://samnuhoang.vercel.app/gioi-thieu/"
+      },
+      {
+        "name": "HTV — MS Thiên Ngọc: Từ nghiên cứu cây dược liệu quý MS Nữ Hoàng",
+        "url": "https://htv.vn/ms-thien-ngoc-tu-nghien-cuu-cay-duoc-lieu-quy-ms-nu-hoang-222260911102637333.htm"
+      }
+    ],
+    "section_sources": [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      []
+    ],
+    "related": [
+      "ruou-ngam-sam-nguyen-lieu-va-thanh-pham",
+      "my-cam-cung-dinh-qua-tang-ngu-vi"
+    ],
+    "date": "15/10/2026",
+    "edition": "royal",
+    "chapter": "01",
+    "pullquote": "Một tên gọi đẹp mở đầu câu chuyện. Nguồn gốc rõ ràng giúp câu chuyện đi xa hơn."
+  },
+  {
+    "slug": "ruou-ngam-sam-nguyen-lieu-va-thanh-pham",
+    "title": "Rượu ngâm sâm: hiểu nguyên liệu, đọc đúng thông tin thành phẩm",
+    "tag": "CHUYÊN ĐỀ NGỰ VỊ",
+    "image": "slices-reference",
+    "caption": "Tư liệu củ MS Nữ Hoàng cắt lát · HTV / Kiều Nhi. Ảnh không xác nhận công thức của Ngự Vị Nữ Hoàng Tửu.",
+    "intro": "Tư liệu về cây sâm và hồ sơ một bình rượu trả lời hai nhóm câu hỏi khác nhau. Phân biệt đúng giúp người mua nhìn sâu hơn vào thành phần, quy cách và nguồn gốc sản phẩm.",
+    "sections": [
+      [
+        "Tách ba lớp thông tin khi tìm hiểu rượu sâm",
+        "Có thể đọc một sản phẩm rượu ngâm sâm theo ba lớp: giống cây làm nguyên liệu, cách sản phẩm được chế biến và thông tin của thành phẩm đóng gói. Tư liệu về MS Nữ Hoàng chủ yếu giúp làm rõ lớp đầu tiên. Chúng giới thiệu giống cây, người nghiên cứu và định hướng phát triển vùng nguyên liệu.\n\nLớp thứ hai cần hồ sơ về công thức và quy trình của nhà sản xuất. Lớp thứ ba cần nhãn hàng, mã lô, dung tích và nồng độ của đúng sản phẩm đang được giới thiệu. Nếu gộp cả ba lớp vào một lời quảng bá, người đọc rất dễ hiểu nhầm rằng một kết quả được báo cáo trên cây hoặc củ cũng áp dụng nguyên vẹn cho mọi bình rượu mang tên sâm."
+      ],
+      [
+        "Nói rõ bộ phận cây, thay vì chỉ ghi một chữ “sâm”",
+        "Bộ tài liệu đề cập cả lá, củ, hoa và các dạng nguyên liệu sau xử lý. Trong bài viết về kiểm soát nguồn giống, các số liệu được dẫn cho những mẫu và bộ phận khác nhau. Vì vậy, một mô tả thành phần có ích phải nói rõ bộ phận cây được sử dụng, tình trạng tươi hay khô và nguồn của lô nguyên liệu.\n\nĐối với Ngự Vị Nữ Hoàng Tửu, thông tin này cần được xác nhận theo hồ sơ của hộ kinh doanh. Không thể tự gán công thức từ một sản phẩm cao lá sâm, một bài viết về củ tươi hay một hình ảnh rễ trang trí. Cách đọc này cũng hữu ích khi đối chiếu giữa chai nhỏ, bình lớn và trống gỗ sồi: thay đổi bao bì không tự chứng minh thay đổi thành phần."
+      ],
+      [
+        "Số liệu thành phần nguyên liệu không phải số liệu của rượu",
+        "Một tỷ lệ saponin hay polyphenol chỉ có thể được hiểu đúng khi biết mẫu thử, trạng thái mẫu, đơn vị và phương pháp. Báo chí trong bộ tư liệu nêu kết quả trên những mẫu thực vật nhất định; bài viết trên website đã dẫn nguồn để người đọc đối chiếu bối cảnh.\n\nMuốn mô tả hàm lượng trong rượu thành phẩm cần kết quả kiểm nghiệm của chính mẫu rượu đó. Không có cơ sở để lấy tỷ lệ trên củ rồi quy đổi trực tiếp thành lượng hoạt chất trong một chai, hoặc suy luận rằng thời gian ngâm càng dài thì sản phẩm càng tốt. Website vì thế không đặt các số liệu nguyên liệu cạnh nút mua hàng như một chứng nhận cho Ngự Vị Nữ Hoàng Tửu."
+      ],
+      [
+        "Màu rượu và kiểu bình giúp quan sát điều gì?",
+        "Ảnh sản phẩm cho thấy sắc rượu, độ trong theo điều kiện chụp, dáng bình, nắp, vòi và chân đế. Những chi tiết ấy có giá trị khi chọn hình thức trưng bày hoặc quà tặng. Chúng không đủ để xác nhận tuổi rượu, nồng độ, độ an toàn hay thời gian tiếp xúc với gỗ.\n\nKhi tham khảo bộ sưu tập, người mua có thể xem ảnh chính đã xử lý nền rồi đối chiếu ảnh gốc ở từng trang. Bước tiếp theo là hỏi thông tin của đúng quy cách: dung tích tịnh, nồng độ công bố, ngày sản xuất, số lô và hướng dẫn trên nhãn. Đó là cách nối trải nghiệm xem ảnh với một quyết định có căn cứ."
+      ],
+      [
+        "Một bảng thông tin nên phục vụ việc đối chiếu",
+        "Hồ sơ dễ đọc nên gom thành các nhóm: tên sản phẩm và chủ thể chịu trách nhiệm; thành phần và nguồn nguyên liệu; dung tích và nồng độ; lô sản xuất và thời điểm đóng gói; hướng dẫn bảo quản, sử dụng. Mỗi nhóm trả lời một câu hỏi khác nhau, thay vì lặp lại những tính từ như “quý” hay “cao cấp”.\n\nCác thông số trên bản thiết kế hiện được chủ hộ cho phép điền giả định để duyệt bố cục. Khi dữ liệu thực tế được bổ sung, chúng cần thay đồng thời ở bảng chọn, trang chi tiết và tài liệu tư vấn. Giá trị của một website chuyên nghiệp không chỉ nằm ở phần hình ảnh, mà còn ở việc cùng một sản phẩm có thông tin nhất quán."
+      ],
+      [
+        "Giữ đúng bản chất của một đồ uống có cồn",
+        "Ngự Vị Nữ Hoàng Tửu được giới thiệu như một sản phẩm rượu. Việc kết hợp nguyên liệu thực vật không phải cơ sở để xem đồ uống có cồn là thuốc hoặc cam kết có lợi cho sức khỏe. WHO nêu rằng sử dụng đồ uống có cồn vẫn có rủi ro, kể cả ở mức thấp.\n\nThông tin này đặt một giới hạn rõ cho nội dung biên soạn: không gán tác dụng chữa bệnh, tăng miễn dịch hay “giải độc” cho sản phẩm khi chưa có bằng chứng phù hợp. Sản phẩm dành cho người trưởng thành; không sử dụng rượu bia khi lái xe. Phần tư liệu giống cây nên giúp hiểu nguyên liệu, không biến thành lý do khuyến khích uống rượu vì sức khỏe."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Báo Nông nghiệp và Môi trường — Cây MS Nữ Hoàng, viên ngọc mới",
+        "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-vien-ngoc-moi-cua-duoc-lieu-viet-nam-d769002.html"
+      },
+      {
+        "name": "Báo Nông nghiệp và Môi trường — Tiềm năng lớn, càng cần quản lý chặt nguồn giống",
+        "url": "https://nongnghiepmoitruong.vn/cay-ms-nu-hoang-tiem-nang-lon-cang-can-quan-ly-chat-nguon-giong-d815855.html"
+      },
+      {
+        "name": "Bộ sưu tập Ngự Vị Nữ Hoàng Tửu — ảnh và quy cách bản duyệt",
+        "url": "https://samnuhoang.vercel.app/san-pham/ruou-sam/"
+      },
+      {
+        "name": "WHO — Alcohol: thông tin về đồ uống có cồn",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      }
+    ],
+    "section_sources": [
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [],
+      [
+        4
+      ]
+    ],
+    "related": [
+      "doc-hieu-thanh-phan-sam",
+      "ngu-vi-nu-hoang-tuu-cau-chuyen-nguon-sam"
+    ],
+    "date": "15/10/2026",
+    "edition": "royal",
+    "chapter": "02",
+    "pullquote": "Hiểu đúng nguyên liệu là bước đầu. Hiểu đúng thành phẩm cần thông tin của chính sản phẩm."
+  },
+  {
+    "slug": "my-cam-cung-dinh-qua-tang-ngu-vi",
+    "title": "Ngự Vị Nữ Hoàng Tửu: mỹ cảm cung đình trong một món quà đương đại",
+    "tag": "CHUYÊN ĐỀ NGỰ VỊ",
+    "image": "royal-gift",
+    "caption": "Phối cảnh quà tặng minh họa bằng AI từ ảnh chai sản phẩm; hộp và phụ kiện là ý tưởng thiết kế, chưa phải quy cách được xác nhận.",
+    "intro": "Sự trang trọng có thể được tạo nên bằng màu sắc, tỷ lệ và khoảng trống. Với Ngự Vị Nữ Hoàng Tửu, cảm hứng cung đình được chuyển thành một cách trình bày đương đại, có tiết chế.",
+    "sections": [
+      [
+        "Đọc tên thương hiệu như một định hướng thẩm mỹ",
+        "Trong cách thể hiện của website, tên Ngự Vị Nữ Hoàng Tửu gợi một không khí trang trọng và sự chăm chút cho trải nghiệm trao tặng. Tên gọi là điểm khởi đầu để lựa chọn màu, chất liệu hình ảnh và nhịp điệu bố cục; không phải chứng cứ về lịch sử của công thức rượu.\n\nBài viết này đề xuất một hướng mỹ thuật cho thương hiệu: lấy sự cân xứng và nhịp điệu làm nền, dùng chi tiết trang trí vừa đủ, dành vị trí rõ ràng cho tên sản phẩm. Không gian cung đình trong phối cảnh là thiết kế minh họa. Website không khẳng định sản phẩm từng được sử dụng trong hoàng cung, là “ngự tửu” lịch sử hay kế thừa một bí phương triều đại."
+      ],
+      [
+        "Đỏ trầm, vàng champagne và nền ngà",
+        "Đỏ trầm tạo một mặt nền sâu, giúp sắc hổ phách của rượu và độ trong của thủy tinh được nhận thấy rõ. Vàng champagne được dùng ở đường viền, tiêu đề nhỏ và chi tiết nhận diện. Nền ngà dành cho phần đọc, để nội dung dài giữ được độ tương phản và cảm giác nhẹ mắt.\n\nBa màu không cần xuất hiện với cường độ ngang nhau. Khi nền đã đậm, một đường vàng mảnh có thể đủ để xác lập khung. Khi ảnh sản phẩm có nhiều phản chiếu, khoảng trống xung quanh giúp hình dáng được nhìn rõ hơn. Sự tiết chế cũng khiến bộ nhận diện có thể đi từ màn hình điện thoại đến thiệp và hộp quà mà không bị rối."
+      ],
+      [
+        "Hình khối sản phẩm quyết định cách sắp đặt",
+        "Chai thủy tinh có trục đứng thanh, phù hợp với bố cục một chai và một tấm thiệp. Bình hồ lô có hai bầu liên tiếp, nên cần khoảng trống hai bên để đường cong được đọc trọn vẹn. Trống gỗ sồi có mặt trước lớn cùng chân đế; trọng tâm thị giác vì vậy thấp và rộng hơn.\n\nCác khác biệt này có thể quan sát trong bộ ảnh chủ hộ cung cấp. Thiết kế không nên ép cả ba kiểu vào cùng một khung quá chật hoặc phóng to theo một tỷ lệ máy móc. Một ảnh đẹp cần giữ nguyên hình dạng, không cắt mất nắp, vòi hay chân đế, đồng thời thể hiện được quan hệ kích thước giữa sản phẩm và phụ kiện."
+      ],
+      [
+        "Một món quà có chiều sâu nhờ câu chuyện đi kèm",
+        "Một tấm thiệp ngắn có thể giới thiệu chủ thể thương hiệu Đỗ Thị Tuyết, tên dòng sản phẩm và đường dẫn tìm hiểu nguồn sâm. Thay vì dùng những lời hứa công dụng, nội dung có thể dẫn người nhận tới bài viết về MS Nữ Hoàng, nguồn giống và hai vùng trồng được hộ kinh doanh công bố.\n\nĐây là cách để mỹ thuật và thông tin hỗ trợ nhau. Hộp quà tạo ấn tượng ban đầu; thông tin có nguồn giúp người nhận tiếp tục tìm hiểu. Nếu làm mã QR trên thiệp, nên trỏ tới trang chi tiết của đúng sản phẩm để ảnh, quy cách và nội dung tư vấn không bị tách rời. Mã QR hoặc hộp trong bài là gợi ý triển khai, không phải cam kết đã có sẵn."
+      ],
+      [
+        "Sự trân trọng còn nằm ở lựa chọn phù hợp",
+        "Một bộ quà tặng nên được cân nhắc theo người nhận, dịp trao tặng, không gian đặt và điều kiện vận chuyển. Với rượu, cần chắc chắn người nhận là người trưởng thành và phù hợp với món quà có cồn; không mặc định đây là quà chăm sóc sức khỏe dành cho mọi người.\n\nTrong bản thiết kế, phong cách cung đình được sử dụng để làm rõ bản sắc của Ngự Vị Nữ Hoàng Tửu. Giá, dung tích và cấu hình hộp vẫn cần xác nhận với chủ hộ trước khi đặt hàng. Một cách trình bày đẹp đạt được ý nghĩa đầy đủ khi người nhận hiểu món quà và người trao biết chính xác mình đang lựa chọn điều gì."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Bộ sưu tập Ngự Vị Nữ Hoàng Tửu — ảnh và quy cách bản duyệt",
+        "url": "https://samnuhoang.vercel.app/san-pham/ruou-sam/"
+      },
+      {
+        "name": "Thông tin hộ kinh doanh Đỗ Thị Tuyết — do chủ hộ cung cấp",
+        "url": "https://samnuhoang.vercel.app/gioi-thieu/"
+      }
+    ],
+    "section_sources": [
+      [],
+      [],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      []
+    ],
+    "related": [
+      "ngu-vi-nu-hoang-tuu-cau-chuyen-nguon-sam",
+      "nam-kieu-dang-ngu-vi-nu-hoang-tuu"
+    ],
+    "date": "15/10/2026",
+    "edition": "royal",
+    "chapter": "03",
+    "pullquote": "Sang trọng là khi hình thức được chăm chút và câu chuyện được kể vừa đủ, đúng nguồn."
+  },
+  {
+    "slug": "nam-kieu-dang-ngu-vi-nu-hoang-tuu",
+    "title": "Năm kiểu dáng Ngự Vị Nữ Hoàng Tửu: chọn theo cách trưng bày",
+    "tag": "CHUYÊN ĐỀ NGỰ VỊ",
+    "image": "royal-salon",
+    "caption": "Phối cảnh bình hồ lô theo cảm hứng cung đình, dựng từ ảnh sản phẩm. Xem từng trang quy cách để đối chiếu ảnh gốc.",
+    "intro": "Chai thủy tinh, bình hồ lô, bình dáng trống, bình đa giác và trống gỗ sồi tạo ra năm cách hiện diện khác nhau. Hãy bắt đầu từ không gian và nhu cầu thực tế, rồi mới đối chiếu dung tích.",
+    "sections": [
+      [
+        "Chai thủy tinh: một bố cục gọn và có trục đứng",
+        "Chai trong bộ ảnh có thân dài, các đường gân dọc, nắp tối màu và nhãn đỏ vàng. Khi trình bày một món quà đơn chiếc, dáng chai giúp bố cục giữ được sự gọn gàng. Một khoảng nền yên tĩnh phía sau thường đã đủ để làm rõ tên sản phẩm.\n\nNgười chọn quà nên hỏi thêm kích thước chai, kiểu hộp phù hợp và cách cố định bên trong. Dung tích ghi trong bộ chọn hiện là dữ liệu bản duyệt, nên không dùng nó để suy ra kích thước hộp. Hai thông tin cần được xác nhận cùng nhau khi chuẩn bị vận chuyển hoặc bố trí trên kệ."
+      ],
+      [
+        "Bình hồ lô: để đường cong trở thành điểm nhấn",
+        "Bình hồ lô nổi bật ở hai bầu thủy tinh và nút tròn phía trên. Trong một bố cục có cảm hứng cung đình, đường cong của bình có thể đứng cạnh khung trang trí thẳng và mảnh để tạo sự cân bằng. Đây là gợi ý mỹ thuật, không phải lời khẳng định về ý nghĩa phong thủy hay tác dụng của dáng bình.\n\nĐể quan sát mẫu này, nên xem cả phần tiếp giáp hai bầu, nút bình và bề mặt đặt đáy. Khi trao đổi quy cách thực tế, có thể yêu cầu ảnh chụp cạnh một vật tham chiếu kích thước. Cách kiểm tra đơn giản ấy hữu ích hơn việc chỉ nhìn ảnh đã được phóng lớn trên website."
+      ],
+      [
+        "Bình dáng trống và bình đa giác: chú ý thao tác với vòi",
+        "Bình thủy tinh dáng trống tạo ấn tượng từ mặt tròn rộng. Bình đa giác lại có những mảng và cạnh làm ánh sáng thay đổi trên bề mặt. Cả hai mẫu trong bộ ảnh đều có chi tiết vòi rót; vì vậy việc trưng bày cần tính cả khoảng trống phía trước hoặc bên cạnh vòi.\n\nNếu đặt trên bàn, hãy xác nhận kích thước tổng thể, vị trí vòi và phụ kiện đi kèm với hộ kinh doanh. Không nên quyết định chỉ từ dáng nhìn chính diện. Các ảnh gốc ở trang sản phẩm giúp quan sát thêm những góc khác, còn tình trạng kín, phụ kiện và cách sử dụng cần được kiểm tra trên sản phẩm thực tế."
+      ],
+      [
+        "Trống gỗ sồi: trọng tâm nằm ở chất liệu và chân đế",
+        "Trống gỗ sồi có thân gỗ, đai kim loại, vòi và chân đế, khác rõ với nhóm bình thủy tinh. Sắc gỗ ấm phù hợp một vị trí trưng bày có nền đơn giản, để kết cấu và các chi tiết kim loại được nhìn thấy mà không cần nhiều đồ trang trí bổ sung.\n\nTuy vậy, loại bao bì không cho biết rượu đã được ủ trong gỗ bao lâu. Người mua cần hỏi riêng về phương thức chứa, thời gian liên quan đến sản phẩm và hướng dẫn của đơn vị cung cấp. Bài viết giới thiệu hình thức quan sát được; không tự gán hương gỗ, tuổi rượu hoặc đặc tính cảm quan chỉ dựa trên chiếc trống."
+      ],
+      [
+        "Chốt lựa chọn bằng một bảng đối chiếu rõ ràng",
+        "Sau khi chọn dáng, hãy kiểm tra lần lượt: mã mẫu và ảnh thực tế; dung tích và nồng độ đã công bố; kích thước cùng phụ kiện; hộp và cách đóng gói; số lượng, giá và thời gian giao nhận. Năm nhóm thông tin này giúp cuộc trao đổi ngắn gọn nhưng đủ căn cứ.\n\nWebsite hiện có chức năng chọn quy cách và tải dự toán để thuận tiện trao đổi. Đây chưa phải đơn hàng được gửi tự động, và các số liệu giả định vẫn cần chủ hộ chỉnh lại. Dù chọn dáng chai thanh hay trống gỗ nổi bật, một quyết định tốt luôn kết hợp được vẻ ngoài mong muốn với thông tin đã xác nhận của đúng sản phẩm."
+      ]
+    ],
+    "sources": [
+      {
+        "name": "Bộ sưu tập Ngự Vị Nữ Hoàng Tửu — ảnh và quy cách bản duyệt",
+        "url": "https://samnuhoang.vercel.app/san-pham/ruou-sam/"
+      }
+    ],
+    "section_sources": [
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      [
+        1
+      ],
+      []
+    ],
+    "related": [
+      "trong-ruou-go-soi",
+      "my-cam-cung-dinh-qua-tang-ngu-vi"
+    ],
+    "date": "15/10/2026",
+    "edition": "royal",
+    "chapter": "04",
+    "pullquote": "Chọn dáng vẻ bằng cảm nhận. Chọn quy cách bằng thông tin đã được xác nhận."
+  },
+  {
     "slug": "sam-nu-hoang-la-cay-gi",
     "title": "Sâm Nữ Hoàng: hiểu đúng về giống cây và tên gọi",
     "tag": "VỀ GIỐNG SÂM",
@@ -40,7 +434,7 @@
     ],
     "related": [
       "vo-thi-ngoc-ms-thien-ngoc",
-      "nguon-giong-va-truy-xuat"
+      "ngu-vi-nu-hoang-tuu-cau-chuyen-nguon-sam"
     ],
     "date": "15/10/2026"
   },
@@ -125,7 +519,7 @@
       }
     ],
     "related": [
-      "sam-nu-hoang-la-cay-gi",
+      "ruou-ngam-sam-nguyen-lieu-va-thanh-pham",
       "sam-tuoi-sam-kho-cao-sam"
     ],
     "date": "15/10/2026"
@@ -189,7 +583,7 @@
       ],
       [
         "Khám phá sản phẩm theo dạng nguyên liệu",
-        "Nếu bạn muốn tìm hiểu sâu hơn, bài so sánh sâm tươi, sâm khô và cao sâm giải thích cách đọc quy cách. Bộ sưu tập Ngự Vị Nữ Hoàng Tưu có trang riêng cho từng dạng chai, bình và trống gỗ sồi."
+        "Nếu bạn muốn tìm hiểu sâu hơn, bài so sánh sâm tươi, sâm khô và cao sâm giải thích cách đọc quy cách. Bộ sưu tập Ngự Vị Nữ Hoàng Tửu có trang riêng cho từng dạng chai, bình và trống gỗ sồi."
       ]
     ],
     "sources": [
@@ -251,7 +645,7 @@
   },
   {
     "slug": "chon-quy-cach-ngu-vi",
-    "title": "Ngự Vị Nữ Hoàng Tưu: năm kiểu dáng, một bộ sưu tập",
+    "title": "Ngự Vị Nữ Hoàng Tửu: năm kiểu dáng, một bộ sưu tập",
     "tag": "CẨM NANG QUÀ TẶNG",
     "image": "gourd",
     "caption": "Ảnh sản phẩm do hộ kinh doanh cung cấp, đã xử lý nền để trình bày.",
@@ -276,15 +670,15 @@
     ],
     "sources": [],
     "related": [
-      "trong-ruou-go-soi",
-      "sam-tuoi-sam-kho-cao-sam"
+      "nam-kieu-dang-ngu-vi-nu-hoang-tuu",
+      "my-cam-cung-dinh-qua-tang-ngu-vi"
     ],
     "date": "15/10/2026"
   },
   {
     "slug": "trong-ruou-go-soi",
     "title": "Trống rượu gỗ sồi: vẻ đẹp từ chất liệu và hình khối",
-    "tag": "NGỰ VỊ NỮ HOÀNG TƯU",
+    "tag": "NGỰ VỊ NỮ HOÀNG TỬU",
     "image": "oak",
     "caption": "Ảnh trống gỗ sồi do hộ kinh doanh cung cấp, đã tách nền.",
     "intro": "Một thiết kế có sự hiện diện rõ ràng trên bàn trưng bày: sắc gỗ ấm, đai kim loại và vòi rót.",
@@ -303,7 +697,7 @@
       ],
       [
         "Hai lựa chọn trong bản duyệt",
-        "Bản mẫu trình bày dung tích 5 lít và 10 lít với giá giả định để xem cách bố trí bảng chọn. Trước khi dùng website bán hàng chính thức, chủ hộ sẽ chỉnh lại dung tích, nồng độ, đơn giá và điều kiện giao nhận theo sản phẩm đang cung cấp."
+        "Theo thông tin chủ hộ cập nhật ngày 17/10/2026, bình rượu gỗ sồi có dung tích 10 lít, giá bán công khai 6.800.000 đồng. Quy cách 5 lít trước đây là dữ liệu giả định và đã được gỡ khỏi danh mục. Nồng độ, điều kiện giao nhận và thông tin theo lô cần được xác nhận khi tư vấn."
       ]
     ],
     "sources": [],

@@ -1,6 +1,6 @@
 'use strict';
 const base=document.body.dataset.base||'./';
-const names={'sam-tuoi':'Sâm Nữ Hoàng tươi','sam-kho':'Sâm Nữ Hoàng khô','ruou-sam':'Ngự Vị Nữ Hoàng Tưu','cao-sam':'Cao Sâm Nữ Hoàng','trong-go-soi':'Ngự Vị Nữ Hoàng Tưu — Trống rượu gỗ sồi','binh-dang-trong':'Ngự Vị Nữ Hoàng Tưu — Bình thủy tinh dáng trống','binh-da-giac':'Ngự Vị Nữ Hoàng Tưu — Bình thủy tinh đa giác','binh-ho-lo':'Ngự Vị Nữ Hoàng Tưu — Bình hồ lô','chai-thuy-tinh':'Ngự Vị Nữ Hoàng Tưu — Chai thủy tinh'};
+const names={'sam-tuoi':'Sâm Nữ Hoàng tươi','sam-kho':'Sâm Nữ Hoàng khô','ruou-sam':'Ngự Vị Nữ Hoàng Tửu','cao-sam':'Cao Sâm Nữ Hoàng','trong-go-soi':'Ngự Vị Nữ Hoàng Tửu — Trống rượu gỗ sồi','binh-dang-trong':'Ngự Vị Nữ Hoàng Tửu — Bình thủy tinh dáng trống','binh-da-giac':'Ngự Vị Nữ Hoàng Tửu — Bình thủy tinh đa giác','binh-ho-lo':'Ngự Vị Nữ Hoàng Tửu — Bình hồ lô','chai-thuy-tinh':'Ngự Vị Nữ Hoàng Tửu — Chai thủy tinh'};
 const wineKeys=['trong-go-soi','binh-dang-trong','binh-da-giac','binh-ho-lo','chai-thuy-tinh'];
 const pathFor=key=>'san-pham/'+(wineKeys.includes(key)?'ruou-sam/':'')+key+'/';
 let saved=[],note='',storageOK=true;
